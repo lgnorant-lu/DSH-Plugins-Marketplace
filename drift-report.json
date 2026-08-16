@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-08-16T06:11:49.459Z",
+  "generated_at": "2026-08-16T06:38:15.478Z",
   "count": 2,
   "items": [
     {
-      "full_name": "huiliyi37/dsh-tianshu-tui",
-      "expected": "conversation",
-      "actual": "conversation",
-      "note": "元数据漂移（简介+主题已变）",
-      "desc_now": "dsh-tianshu-tui — DeepSeek Tianshu coding是官方 Dsh上的交互式终端 UI 插件。以自研ansi为渲染核心极度丝滑流畅，在官方的基础上增加了TDD、证据门、视觉图像模块等工作流。",
-      "desc_snapshot": "dsh-tianshu-tui — DeepSeek Harness terminal UI +harness workflow。是官方 DeepSeek Harness 上的交互式终端 UI 插件。渲染核心从本仓库自研的harness agent  Tianshu-Tui 演进而来，在官方的基础上增加了TDD、证据门、视觉图像模块等工作流。"
+      "full_name": "dawsondx/dsh-token-data",
+      "previous": "tool",
+      "current": "model",
+      "desc_now": "Token usage dashboard, provider balances, and subscription quotas for the DeepSeek Harness (DSH) web GUI",
+      "desc_prev": "Token usage dashboard, provider balances, and subscription quotas for the DeepSeek Harness (DSH) web GUI"
     },
     {
-      "full_name": "anywhere-labs/deepseek-harness-desktop",
-      "expected": "other",
-      "actual": "other",
-      "note": "元数据漂移（简介已变）",
-      "desc_now": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
-      "desc_snapshot": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验"
+      "full_name": "tmeeli/dsh-auto-goal-resume",
+      "previous": "other",
+      "current": "conversation",
+      "desc_now": "DeepSeek Harness 插件:重启后自动续跑有活跃目标(goal)的会话,无需人工说继续。",
+      "desc_prev": null
     }
   ]
 }
