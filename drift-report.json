@@ -1,62 +1,27 @@
 {
-  "generated_at": "2026-08-16T18:40:45.087Z",
-  "count": 8,
+  "generated_at": "2026-08-16T20:37:08.757Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "EthanYoQ/AI-Novel-Writer",
-      "previous": "memory",
-      "current": "coding",
-      "desc_now": "本地优先 AI 小说创作工作台，提供 Windows/macOS 桌面版与 DeepSeek Harness 插件开发预览，支持角色、大纲、章节蓝图、审稿修稿和本地模型。",
-      "desc_prev": "AI小说写作软件，通过大纲、角色、章节蓝图、审稿修稿和知识库控制长篇小说写作，支持本地模型编写。"
-    },
-    {
-      "full_name": "bowenliang123/dsh-context",
-      "previous": "memory",
-      "current": "model",
-      "desc_now": "A DeepSeek Harness plugin for  Context dashboard and command — showing what the model's context window is made of and how it evolves.",
-      "desc_prev": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves."
-    },
-    {
-      "full_name": "seed-forge/harness-ai-kit",
-      "previous": "agent",
+      "full_name": "Mooling0602/dsh-web-file-uploader",
+      "previous": "tool",
       "current": "web-ui",
-      "desc_now": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
-      "desc_prev": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro."
+      "desc_now": "A file-upload plugin for the DeepSeek Harness web UI.",
+      "desc_prev": null
     },
     {
-      "full_name": "1052326311/dsh-plan-lattice",
-      "previous": "agent",
-      "current": "memory",
-      "desc_now": "Plan Lattice for DeepSeek Harness: zero-model-call bypass for small tasks, evidence-gated execution for long-running agents. Reproducible first-drift test: 8/8 vs 0/8 unsafe mutations.",
-      "desc_prev": "Evidence-gated recursive work graphs for long-horizon DeepSeek Harness agents"
+      "full_name": "YLingHao/dsh-codeui",
+      "previous": "coding",
+      "current": "conversation",
+      "desc_now": "A code-review workbench for DeepSeek Harness and  jump from an always-on turn rail straight back to that turn in the conversation.",
+      "desc_prev": "A VSCode-style code-change viewer that turns DeepSeek Harness into an IDE-like workbench."
     },
     {
-      "full_name": "mlosun/dsh-docs-panel",
+      "full_name": "qinyre/dsh-plugin-capabilities",
       "previous": "web-ui",
-      "current": "memory",
-      "desc_now": "DSH WebUI 里的「随身手册」：全局 Markdown 笔记，任何工作区随时可读。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "ZYar-er/dsh-notify-bell",
-      "previous": "web-ui",
-      "current": "notify",
-      "desc_now": "Semantic notification sounds for DeepSeek Harness: complete/approval/question/block/error via BEL or WAV, with Web UI bell toggle ｜ DeepSeek Harness 语义化通知声音：完成/审批/提问/受阻/错误，经 BEL 或 WAV 播放，带 Web 铃铛开关",
-      "desc_prev": "Semantic notification sounds for DeepSeek Harness: complete/approval/question/block/error via BEL or WAV, with Web UI bell toggle"
-    },
-    {
-      "full_name": "lingruan28-boop/dsh-balance-float",
-      "previous": "model",
-      "current": "web-ui",
-      "desc_now": "DeepSeek API 余额悬浮窗：打开 Harness 即显示，可拖动缩放，放大查看官方用量 | A floating DeepSeek balance & usage widget for DeepSeek Harness (DSH)",
-      "desc_prev": null
-    },
-    {
-      "full_name": "fazhu4/dsh-activity-report",
-      "previous": "model",
-      "current": "web-ui",
-      "desc_now": "dsh的本地用量面板，统计 Token、请求、Agent 活动、工具调用和性能",
-      "desc_prev": null
+      "current": "tool",
+      "desc_now": "在 dsh 设置页管理技能与 MCP 服务器，支持从 Claude Code、Codex 导入。",
+      "desc_prev": "Manage skills and MCP servers from the Web UI Settings. 在设置页管理 dsh 的技能与 MCP 服务器。"
     }
   ]
 }
