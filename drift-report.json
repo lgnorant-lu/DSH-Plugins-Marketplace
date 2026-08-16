@@ -1,62 +1,90 @@
 {
-  "generated_at": "2026-08-16T14:37:45.991Z",
-  "count": 8,
+  "generated_at": "2026-08-16T16:38:04.898Z",
+  "count": 12,
   "items": [
     {
-      "full_name": "Ruler4396/dsh-launcher",
-      "previous": "tool",
-      "current": "other",
-      "desc_now": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "desc_prev": "Lightweight Windows launcher for DeepSeek Harness: silent autostart at logon + a minimal WebView2 window instead of a full browser"
-    },
-    {
-      "full_name": "openma-ai/deepseek-harness-tui",
-      "previous": "coding",
-      "current": "other",
-      "desc_now": "Self-Improvement TUI Plugin of DeepSeek Harness",
-      "desc_prev": "TUI Plugin of DeepSeek Harness 让DeepSeek Harness在终端跑起来"
-    },
-    {
-      "full_name": "Zhangbo-cn/dsh-voice-input-plugin",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "Composer mic for DeepSeek Harness Web: tap-to-monitor live transcription and hold-to-talk, with host Edge TTS reply reading that streams while the model generates, echo-pause during reading, and tap-to-stop.",
-      "desc_prev": null
-    },
-    {
-      "full_name": "jinhuang712/dsh-survey",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit",
-      "desc_prev": "Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit"
-    },
-    {
-      "full_name": "KryptonGao/dsh-github-integration",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "一个面向 DeepSeek Harness Web profile 的 GitHub 工作区插件。  它把 GitHub 仓库绑定到当前 Workspace，在 Harness 内提供 Issues、Pull requests 和 Changes 三个视图；Host 端处理本地 Git、GitHub API 与凭据，Client 端只负责界面和交互。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "TindalosKorone/dsh-cheatengine",
+      "full_name": "gezi-wen/sage-mem",
       "previous": "other",
       "current": "memory",
-      "desc_now": "DSH plugin bridging DeepSeek Harness agents to Cheat Engine: dynamic debugging, memory scanning, pointer analysis, breakpoints, and game memory hacking via ce_* tools.",
+      "desc_now": null,
       "desc_prev": null
     },
     {
-      "full_name": "1473382/dsh-popper",
+      "full_name": "PerryLink/dsh-github",
       "previous": "other",
-      "current": "agent",
-      "desc_now": "DeepSeek Harness plugin (not MCP): a falsification-driven correction loop — explicit claims, deterministic gates, mutually exclusive hypotheses — that turns agent retry loops into auditable evidence for better development quality.",
+      "current": "tool",
+      "desc_now": "Official-grade GitHub CI for DeepSeek Harness: composite action.yml, PR review bot with idempotent inline comments and a status-check gate, plus PR/issues tools with every write gated by human approval (Apache-2.0, dsh-plugin).",
+      "desc_prev": "GitHub integration for DeepSeek Harness: create PRs, review PRs in background jobs, read issues - every write gated by human approval"
+    },
+    {
+      "full_name": "xiehuan123/dsh-deepread",
+      "previous": "other",
+      "current": "memory",
+      "desc_now": "Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs.",
       "desc_prev": null
     },
     {
-      "full_name": "zhan-tz/dsh-plugin-runbook",
+      "full_name": "Z-6354/dsh-mobile-hanui",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "基于deepseek-harness（dsh）的手机网页优化插件，修复了部分网页与手机端不适配的问题；",
+      "desc_prev": "基于deepseek-harness（dsh）的手机网页优化插件，修复了部分网页与手机端不适配的问题；"
+    },
+    {
+      "full_name": "Fayelin12/dsh-office",
+      "previous": "document",
+      "current": "notify",
+      "desc_now": "Agent-office dashboard for DeepSeek Harness (DSH): workspaces, sessions, token usage & subagents in one sprite-filled office — plus a built-in Agent Mail inbox to read, send & reply right in the panel. DeepSeek Harness「办公室」：工作区/会话/子代理一屏总览 + 内置 Agent 邮箱收发，一眼看穿每个 Agent 在忙什么。",
+      "desc_prev": "Office workspace & session dashboard plugin for DeepSeek Harness (DSH). 给 DeepSeek Harness 的办公室工作区/会话/子代理可视化插件。"
+    },
+    {
+      "full_name": "AFAP/dsh-input-file-ref",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "输入框文件引用插件：在 DeepSeek Harness Web GUI 输入框里像 Kimicode/Cursor 那样，输入 @ 弹出可搜索、可逐级下钻的文件选择面板，选中后把 @相对路径 回填进输入框（保留 @、末尾一空格），让模型按路径读取该文件。",
+      "desc_prev": "Typing '@' in the DeepSeek Harness web GUI lists the session working directory's files and inserts a <file>...path</file> reference the model can read."
+    },
+    {
+      "full_name": "weicy98/dsh-cftunnel",
+      "previous": "web-ui",
+      "current": "notify",
+      "desc_now": "dsh cf tunnel ui with token/email verify",
+      "desc_prev": "dsh cftunnel ui"
+    },
+    {
+      "full_name": "Memory455/dsh-jump-rail",
+      "previous": "conversation",
+      "current": "web-ui",
+      "desc_now": "DSH Web GUI conversation jump rail plugin",
+      "desc_prev": "DSH Web GUI conversation jump rail plugin"
+    },
+    {
+      "full_name": "7A7K/DSH-Timeline-Navigator",
+      "previous": "tool",
+      "current": "conversation",
+      "desc_now": "A turn-based conversation timeline for DeepSeek Harness with bookmarks, history loading, keyboard controls, and mobile support.",
+      "desc_prev": "A discoverable, accessible conversation timeline for DeepSeek Harness with search, bookmarks, history loading, and mobile support."
+    },
+    {
+      "full_name": "JohnXu22786/task-board",
       "previous": "conversation",
       "current": "tool",
-      "desc_now": "DSH 插件：Jupyter 式活体运行本——回合可回放的数据流 DAG，含 git 提交出处节点、子 agent 交接边、持久账本、悬停重跑与 LLM 解释",
-      "desc_prev": "DSH 插件：Jupyter 式活体运行本——回合可回放的数据流 DAG，含 git 提交出处节点、子 agent 交接边、持久账本、悬停重跑与 LLM 解释"
+      "desc_now": "Cross-session event-sourced work ledger for DeepSeek Harness: task tracking, audit history, kanban export, dsh bundle plugin.",
+      "desc_prev": "跨会话工作石板（Cross-session work ledger for agent harnesses）：事件溯源任务台账，状态流转/审计/看板/会话摘要注入，以 DeepSeek Harness (dsh) bundle 分发"
+    },
+    {
+      "full_name": "sjh9714/dsh-lean",
+      "previous": "model",
+      "current": "tool",
+      "desc_now": "dsh sends 8,246 tokens before it reads your prompt. 3,700 of them are tools your session never calls. Audit your own session, then cut the prefix 53%. 一场会话的第一个请求约占账单的 52%。",
+      "desc_prev": "Same answer, smaller bill. Cuts the DeepSeek Harness (DSH) prompt prefix by 53% and session cost by 18-42%, measured. 同样的结果，更小的账单。"
+    },
+    {
+      "full_name": "baihejiangnan/dsh-session-context-menu",
+      "previous": "other",
+      "current": "model",
+      "desc_now": "更好的右键：DeepSeek Harness 应用封装端的完整原生风格上下文菜单",
+      "desc_prev": "Native-feeling context menus for DeepSeek Harness desktop wrappers"
     }
   ]
 }
