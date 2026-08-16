@@ -1,34 +1,48 @@
 {
-  "generated_at": "2026-08-16T08:42:00.545Z",
-  "count": 4,
+  "generated_at": "2026-08-16T10:38:02.538Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "better-er/dsh-tool-autoexpand",
-      "previous": "web-ui",
-      "current": "tool",
-      "desc_now": "dsh·工具结果自动展开插件",
-      "desc_prev": "自动展开 DSH 界面中新增的工具调用结果卡片，带侧栏开关。标准 dsh 客户端插件"
+      "full_name": "omdsh-dev/dsh-data-agent",
+      "previous": "agent",
+      "current": "conversation",
+      "desc_now": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "desc_prev": "Data Agent for DeepSeek Harness: session-scoped database connections with a dedicated agent preset that lets AI write SQL and iterate against live execution feedback."
     },
     {
-      "full_name": "spacexun2/dsh-worktime-board",
-      "previous": "web-ui",
-      "current": "agent",
-      "desc_now": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 × 修仙养成——你的 agent 不是打工，是在修仙（日/周/月 + 学年年历，炼气→宇宙洪荒）",
-      "desc_prev": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 + 十二境界修仙面板（日/周/月 + 学年年历，炼气→宇宙洪荒）"
-    },
-    {
-      "full_name": "Paraso42/dsh-bioinfo",
+      "full_name": "2672243194/dsh-read-url",
       "previous": "other",
-      "current": "coding",
-      "desc_now": "生信模式 (Bioinformatics Mode) — research-grade protein structure & interaction agent preset for DeepSeek Harness: AF2-Multimer, ESMFold, AutoDock Vina, MM-GBSA/MD, structure QA, virtual screening.",
+      "current": "model",
+      "desc_now": "DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown",
       "desc_prev": null
     },
     {
-      "full_name": "lussey820/dsh-creative-director",
+      "full_name": "2672243194/dsh-tally",
+      "previous": "other",
+      "current": "notify",
+      "desc_now": "Personal bookkeeping for DeepSeek Harness: record expenses/income (single or batch), list, monthly/annual stats with trends, budgets with progress/over-limit alerts, soft-delete restore, CSV & self-contained HTML report. Zero deps, local JSON. 个人记账插件",
+      "desc_prev": null
+    },
+    {
+      "full_name": "spacexun2/dsh-worktime-board",
+      "previous": "agent",
+      "current": "other",
+      "desc_now": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 × 修仙养成——把每一分钟劳动，都修成境界（日/周/月 + 学年年历，炼气→宇宙洪荒）",
+      "desc_prev": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 × 修仙养成——你的 agent 不是打工，是在修仙（日/周/月 + 学年年历，炼气→宇宙洪荒）"
+    },
+    {
+      "full_name": "kirigayakazima/dsh-usage-vendor-stats",
+      "previous": "model",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness usage stats by vendor (subscription / official API) × KPI: 53-week heatmap, trend chart, model drilldown, CSV export, and health cards.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "Cheyeah/dsh-drop-preview",
       "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 创意指导 Agent 插件：领域判定 + 自适应追问生成深耕领域的美学 brief（短视频/品牌视觉/电商带货/游戏概念），cd_render 渲染生成 prompt，框架逻辑可测试。dsh-plugin / Creative Director",
-      "desc_prev": "DeepSeek Harness 创意指导 Agent 插件：6 维评估 + 自适应追问把模糊需求收敛成通用美学 brief（JSON，平台无关），AIGC 去味润色，框架逻辑抽成可测试工具"
+      "current": "vision",
+      "desc_now": "DeepSeek Harness (DSH) Web 插件：拖放文件预览 / Markdown 渲染 / 文件盒 / 智能桌面截图（全屏·区域·窗口）/ 外挂识图与识别文本入库。完整开发历史含 21 个快照标签。",
+      "desc_prev": "DeepSeek Harness 拖拽文件预览插件：全屏预览图片/Markdown/文本，图片放大旋转，文件盒持久化，一键附带给 AI | DSH drag-and-drop file preview plugin"
     }
   ]
 }
