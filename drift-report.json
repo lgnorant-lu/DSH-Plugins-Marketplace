@@ -1,90 +1,62 @@
 {
-  "generated_at": "2026-08-16T16:38:04.898Z",
-  "count": 12,
+  "generated_at": "2026-08-16T18:40:45.087Z",
+  "count": 8,
   "items": [
     {
-      "full_name": "gezi-wen/sage-mem",
-      "previous": "other",
+      "full_name": "EthanYoQ/AI-Novel-Writer",
+      "previous": "memory",
+      "current": "coding",
+      "desc_now": "本地优先 AI 小说创作工作台，提供 Windows/macOS 桌面版与 DeepSeek Harness 插件开发预览，支持角色、大纲、章节蓝图、审稿修稿和本地模型。",
+      "desc_prev": "AI小说写作软件，通过大纲、角色、章节蓝图、审稿修稿和知识库控制长篇小说写作，支持本地模型编写。"
+    },
+    {
+      "full_name": "bowenliang123/dsh-context",
+      "previous": "memory",
+      "current": "model",
+      "desc_now": "A DeepSeek Harness plugin for  Context dashboard and command — showing what the model's context window is made of and how it evolves.",
+      "desc_prev": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves."
+    },
+    {
+      "full_name": "seed-forge/harness-ai-kit",
+      "previous": "agent",
+      "current": "web-ui",
+      "desc_now": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
+      "desc_prev": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro."
+    },
+    {
+      "full_name": "1052326311/dsh-plan-lattice",
+      "previous": "agent",
       "current": "memory",
-      "desc_now": null,
+      "desc_now": "Plan Lattice for DeepSeek Harness: zero-model-call bypass for small tasks, evidence-gated execution for long-running agents. Reproducible first-drift test: 8/8 vs 0/8 unsafe mutations.",
+      "desc_prev": "Evidence-gated recursive work graphs for long-horizon DeepSeek Harness agents"
+    },
+    {
+      "full_name": "mlosun/dsh-docs-panel",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "DSH WebUI 里的「随身手册」：全局 Markdown 笔记，任何工作区随时可读。",
       "desc_prev": null
     },
     {
-      "full_name": "PerryLink/dsh-github",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "Official-grade GitHub CI for DeepSeek Harness: composite action.yml, PR review bot with idempotent inline comments and a status-check gate, plus PR/issues tools with every write gated by human approval (Apache-2.0, dsh-plugin).",
-      "desc_prev": "GitHub integration for DeepSeek Harness: create PRs, review PRs in background jobs, read issues - every write gated by human approval"
-    },
-    {
-      "full_name": "xiehuan123/dsh-deepread",
-      "previous": "other",
-      "current": "memory",
-      "desc_now": "Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs.",
-      "desc_prev": null
-    },
-    {
-      "full_name": "Z-6354/dsh-mobile-hanui",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "基于deepseek-harness（dsh）的手机网页优化插件，修复了部分网页与手机端不适配的问题；",
-      "desc_prev": "基于deepseek-harness（dsh）的手机网页优化插件，修复了部分网页与手机端不适配的问题；"
-    },
-    {
-      "full_name": "Fayelin12/dsh-office",
-      "previous": "document",
-      "current": "notify",
-      "desc_now": "Agent-office dashboard for DeepSeek Harness (DSH): workspaces, sessions, token usage & subagents in one sprite-filled office — plus a built-in Agent Mail inbox to read, send & reply right in the panel. DeepSeek Harness「办公室」：工作区/会话/子代理一屏总览 + 内置 Agent 邮箱收发，一眼看穿每个 Agent 在忙什么。",
-      "desc_prev": "Office workspace & session dashboard plugin for DeepSeek Harness (DSH). 给 DeepSeek Harness 的办公室工作区/会话/子代理可视化插件。"
-    },
-    {
-      "full_name": "AFAP/dsh-input-file-ref",
-      "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "输入框文件引用插件：在 DeepSeek Harness Web GUI 输入框里像 Kimicode/Cursor 那样，输入 @ 弹出可搜索、可逐级下钻的文件选择面板，选中后把 @相对路径 回填进输入框（保留 @、末尾一空格），让模型按路径读取该文件。",
-      "desc_prev": "Typing '@' in the DeepSeek Harness web GUI lists the session working directory's files and inserts a <file>...path</file> reference the model can read."
-    },
-    {
-      "full_name": "weicy98/dsh-cftunnel",
+      "full_name": "ZYar-er/dsh-notify-bell",
       "previous": "web-ui",
       "current": "notify",
-      "desc_now": "dsh cf tunnel ui with token/email verify",
-      "desc_prev": "dsh cftunnel ui"
+      "desc_now": "Semantic notification sounds for DeepSeek Harness: complete/approval/question/block/error via BEL or WAV, with Web UI bell toggle ｜ DeepSeek Harness 语义化通知声音：完成/审批/提问/受阻/错误，经 BEL 或 WAV 播放，带 Web 铃铛开关",
+      "desc_prev": "Semantic notification sounds for DeepSeek Harness: complete/approval/question/block/error via BEL or WAV, with Web UI bell toggle"
     },
     {
-      "full_name": "Memory455/dsh-jump-rail",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "DSH Web GUI conversation jump rail plugin",
-      "desc_prev": "DSH Web GUI conversation jump rail plugin"
-    },
-    {
-      "full_name": "7A7K/DSH-Timeline-Navigator",
-      "previous": "tool",
-      "current": "conversation",
-      "desc_now": "A turn-based conversation timeline for DeepSeek Harness with bookmarks, history loading, keyboard controls, and mobile support.",
-      "desc_prev": "A discoverable, accessible conversation timeline for DeepSeek Harness with search, bookmarks, history loading, and mobile support."
-    },
-    {
-      "full_name": "JohnXu22786/task-board",
-      "previous": "conversation",
-      "current": "tool",
-      "desc_now": "Cross-session event-sourced work ledger for DeepSeek Harness: task tracking, audit history, kanban export, dsh bundle plugin.",
-      "desc_prev": "跨会话工作石板（Cross-session work ledger for agent harnesses）：事件溯源任务台账，状态流转/审计/看板/会话摘要注入，以 DeepSeek Harness (dsh) bundle 分发"
-    },
-    {
-      "full_name": "sjh9714/dsh-lean",
+      "full_name": "lingruan28-boop/dsh-balance-float",
       "previous": "model",
-      "current": "tool",
-      "desc_now": "dsh sends 8,246 tokens before it reads your prompt. 3,700 of them are tools your session never calls. Audit your own session, then cut the prefix 53%. 一场会话的第一个请求约占账单的 52%。",
-      "desc_prev": "Same answer, smaller bill. Cuts the DeepSeek Harness (DSH) prompt prefix by 53% and session cost by 18-42%, measured. 同样的结果，更小的账单。"
+      "current": "web-ui",
+      "desc_now": "DeepSeek API 余额悬浮窗：打开 Harness 即显示，可拖动缩放，放大查看官方用量 | A floating DeepSeek balance & usage widget for DeepSeek Harness (DSH)",
+      "desc_prev": null
     },
     {
-      "full_name": "baihejiangnan/dsh-session-context-menu",
-      "previous": "other",
-      "current": "model",
-      "desc_now": "更好的右键：DeepSeek Harness 应用封装端的完整原生风格上下文菜单",
-      "desc_prev": "Native-feeling context menus for DeepSeek Harness desktop wrappers"
+      "full_name": "fazhu4/dsh-activity-report",
+      "previous": "model",
+      "current": "web-ui",
+      "desc_now": "dsh的本地用量面板，统计 Token、请求、Agent 活动、工具调用和性能",
+      "desc_prev": null
     }
   ]
 }
