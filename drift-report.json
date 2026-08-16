@@ -1,20 +1,34 @@
 {
-  "generated_at": "2026-08-16T06:38:15.478Z",
-  "count": 2,
+  "generated_at": "2026-08-16T08:42:00.545Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "dawsondx/dsh-token-data",
-      "previous": "tool",
-      "current": "model",
-      "desc_now": "Token usage dashboard, provider balances, and subscription quotas for the DeepSeek Harness (DSH) web GUI",
-      "desc_prev": "Token usage dashboard, provider balances, and subscription quotas for the DeepSeek Harness (DSH) web GUI"
+      "full_name": "better-er/dsh-tool-autoexpand",
+      "previous": "web-ui",
+      "current": "tool",
+      "desc_now": "dsh·工具结果自动展开插件",
+      "desc_prev": "自动展开 DSH 界面中新增的工具调用结果卡片，带侧栏开关。标准 dsh 客户端插件"
     },
     {
-      "full_name": "tmeeli/dsh-auto-goal-resume",
+      "full_name": "spacexun2/dsh-worktime-board",
+      "previous": "web-ui",
+      "current": "agent",
+      "desc_now": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 × 修仙养成——你的 agent 不是打工，是在修仙（日/周/月 + 学年年历，炼气→宇宙洪荒）",
+      "desc_prev": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 + 十二境界修仙面板（日/周/月 + 学年年历，炼气→宇宙洪荒）"
+    },
+    {
+      "full_name": "Paraso42/dsh-bioinfo",
       "previous": "other",
-      "current": "conversation",
-      "desc_now": "DeepSeek Harness 插件:重启后自动续跑有活跃目标(goal)的会话,无需人工说继续。",
+      "current": "coding",
+      "desc_now": "生信模式 (Bioinformatics Mode) — research-grade protein structure & interaction agent preset for DeepSeek Harness: AF2-Multimer, ESMFold, AutoDock Vina, MM-GBSA/MD, structure QA, virtual screening.",
       "desc_prev": null
+    },
+    {
+      "full_name": "lussey820/dsh-creative-director",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "DeepSeek Harness 创意指导 Agent 插件：领域判定 + 自适应追问生成深耕领域的美学 brief（短视频/品牌视觉/电商带货/游戏概念），cd_render 渲染生成 prompt，框架逻辑可测试。dsh-plugin / Creative Director",
+      "desc_prev": "DeepSeek Harness 创意指导 Agent 插件：6 维评估 + 自适应追问把模糊需求收敛成通用美学 brief（JSON，平台无关），AIGC 去味润色，框架逻辑抽成可测试工具"
     }
   ]
 }
