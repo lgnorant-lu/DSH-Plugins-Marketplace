@@ -1,48 +1,62 @@
 {
-  "generated_at": "2026-08-16T12:43:53.889Z",
-  "count": 6,
+  "generated_at": "2026-08-16T14:37:45.991Z",
+  "count": 8,
   "items": [
     {
-      "full_name": "dream12347/dsh-delete-session",
-      "previous": "web-ui",
-      "current": "resource",
-      "desc_now": "DSH 会话与工作区管理：删除（回收站可恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组排序与增删改。Manage DSH sessions & workspaces: delete with trash/restore/purge, activity stats, continue/pause, log folder, header drawer, workspace grouping with reorder/rename/delete.",
-      "desc_prev": "Delete DSH conversation sessions from a Settings panel/在设置面板中增加删除会话管理以便删除无用会话"
+      "full_name": "Ruler4396/dsh-launcher",
+      "previous": "tool",
+      "current": "other",
+      "desc_now": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "desc_prev": "Lightweight Windows launcher for DeepSeek Harness: silent autostart at logon + a minimal WebView2 window instead of a full browser"
     },
     {
-      "full_name": "linshule/dsh-balance",
-      "previous": "model",
-      "current": "tool",
-      "desc_now": "DeepSeek API 余额 + OpenCodeGo 余量实时显示插件（dsh web GUI）：可拖拽双段徽章与详情弹层 + DeepSeek/OpenCodeGo 两个设置页；Key 仅存本机 ~/.dsh/ds-balance.json，OpenCodeGo Key 自动读取 DSH 凭据",
-      "desc_prev": "DeepSeek API 账户余额实时显示插件（DSH Web GUI）：可拖拽左下角余额徽章 + 设置页"
-    },
-    {
-      "full_name": "pyf2818/dsh-bili-widget",
+      "full_name": "openma-ai/deepseek-harness-tui",
       "previous": "coding",
-      "current": "resource",
-      "desc_now": "🎬 DSH (DeepSeek Harness) B站悬浮看片插件：边 coding 边刷视频。推荐/热门/排行/搜索/关注UP主、自动连播、迷你模式、历史持久化",
-      "desc_prev": "边coding边刷视频听音乐"
+      "current": "other",
+      "desc_now": "Self-Improvement TUI Plugin of DeepSeek Harness",
+      "desc_prev": "TUI Plugin of DeepSeek Harness 让DeepSeek Harness在终端跑起来"
     },
     {
-      "full_name": "Jamailar/beav-deepseek-harness",
-      "previous": "memory",
-      "current": "vision",
-      "desc_now": "Beav Creator for Xiaohongshu/RED, social-media AI operations, research, copywriting, images and video in DeepSeek Harness｜小红书与社媒AI运营",
-      "desc_prev": "Beav Creator AI workflows for social-media content, knowledge, images, audio, and video in DeepSeek Harness"
+      "full_name": "Zhangbo-cn/dsh-voice-input-plugin",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "Composer mic for DeepSeek Harness Web: tap-to-monitor live transcription and hold-to-talk, with host Edge TTS reply reading that streams while the model generates, echo-pause during reading, and tap-to-stop.",
+      "desc_prev": null
     },
     {
-      "full_name": "v587d/capital-generation",
+      "full_name": "jinhuang712/dsh-survey",
       "previous": "other",
       "current": "web-ui",
-      "desc_now": "面向中国股市小散户的金融投资智能体",
+      "desc_now": "Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit",
+      "desc_prev": "Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit"
+    },
+    {
+      "full_name": "KryptonGao/dsh-github-integration",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "一个面向 DeepSeek Harness Web profile 的 GitHub 工作区插件。  它把 GitHub 仓库绑定到当前 Workspace，在 Harness 内提供 Issues、Pull requests 和 Changes 三个视图；Host 端处理本地 Git、GitHub API 与凭据，Client 端只负责界面和交互。",
       "desc_prev": null
     },
     {
-      "full_name": "dove-a/dsh-plugin-registry",
-      "previous": "resource",
-      "current": "web-ui",
-      "desc_now": "Path registry for DSH (DeepSeek Harness) plugins: inventory all installed plugins/presets/skills with real paths & sources, detect new/removed/upgraded changes, scan C-drive residue references, verify dependency integrity. Agent tools + Web GUI panel.",
+      "full_name": "TindalosKorone/dsh-cheatengine",
+      "previous": "other",
+      "current": "memory",
+      "desc_now": "DSH plugin bridging DeepSeek Harness agents to Cheat Engine: dynamic debugging, memory scanning, pointer analysis, breakpoints, and game memory hacking via ce_* tools.",
       "desc_prev": null
+    },
+    {
+      "full_name": "1473382/dsh-popper",
+      "previous": "other",
+      "current": "agent",
+      "desc_now": "DeepSeek Harness plugin (not MCP): a falsification-driven correction loop — explicit claims, deterministic gates, mutually exclusive hypotheses — that turns agent retry loops into auditable evidence for better development quality.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "zhan-tz/dsh-plugin-runbook",
+      "previous": "conversation",
+      "current": "tool",
+      "desc_now": "DSH 插件：Jupyter 式活体运行本——回合可回放的数据流 DAG，含 git 提交出处节点、子 agent 交接边、持久账本、悬停重跑与 LLM 解释",
+      "desc_prev": "DSH 插件：Jupyter 式活体运行本——回合可回放的数据流 DAG，含 git 提交出处节点、子 agent 交接边、持久账本、悬停重跑与 LLM 解释"
     }
   ]
 }
