@@ -4,6 +4,8 @@
 // - skill / agent-preset 型：location 必须位于 SKILLS_DIR / PRESETS_DIR 内（前缀或精确相等）。
 //   L1 修复：多 skill / 多预设仓库安装时 location 记为 SKILLS_DIR / PRESETS_DIR 本身
 //   （无尾分隔符）——精确相等也必须放行删除，否则目录残留而记录已删。
+
+
 //
 // 独立文件的原因：lib 模块在 import 时从 DSH_HOME/marketplace/installed.json 加载安装清单
 // （installedMap 为模块内部状态），必须在本文件内先构造 DSH_HOME + installed.json 再 import。
@@ -53,6 +55,8 @@ writeFileSync(join(marketRoot, "installed.json"), JSON.stringify({
 }), "utf8");
 mkdirSync(join(profileNm, "cordispkg2"), { recursive: true });
 
+
+
 const lib = await import("../../../lib/index.js");
 
 let pass = 0, fail = 0;
@@ -73,10 +77,13 @@ const uninstallHandler = registered.find((h) => h.path === "/api/marketplace/uni
 check("uninstall 路由已注册", !!uninstallHandler, true);
 
 if (uninstallHandler) {
-  // mock req：async iterable body（readJsonBody 用 for await 消费）+ 可信头
+  // mock req：async iterable body（readJsonBody 用 for await 消费）+ 可信头 + 回环 socket
+  // （isWriteAllowed 的回环判定基于 socket.remoteAddress，见 write-access.test.mjs）
   const mkReq = (repo) => ({
     method: "POST",
     headers: { "x-dsh-marketplace": "1", host: "127.0.0.1:3080" },
+    socket: { remoteAddress: "127.0.0.1" },
+
     [Symbol.asyncIterator]: function* () {
       yield Buffer.from(JSON.stringify({ repo }));
     },
@@ -160,6 +167,8 @@ if (uninstallHandler) {
   const patchFinal = readFileSync(patchFile, "utf8");
   check("uninstall patch 第二个 insert 块已移除", !patchFinal.includes("cordispkg2"), true);
   check("uninstall patch 最后一个插件卸载后 skin 块仍保留", patchFinal.includes("dsh-skin managed"), true);
+
+
 }
 
 rmSync(home, { recursive: true, force: true });
