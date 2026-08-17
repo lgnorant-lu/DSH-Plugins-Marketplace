@@ -1,34 +1,48 @@
 {
-  "generated_at": "2026-08-17T07:12:15.764Z",
-  "count": 4,
+  "generated_at": "2026-08-17T09:00:15.832Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "bowenliang123/dsh-context",
-      "previous": "model",
-      "current": "web-ui",
-      "desc_now": "一站式 DeepSeek Harness 上下文可视化插件，Context 面板与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "desc_prev": "A DeepSeek Harness plugin for  Context dashboard and command — showing what the model's context window is made of and how it evolves."
+      "full_name": "yuukiLike/zeromd",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "Obsidian 零成本同步：iPhone ↔ Mac，GitHub 自动备份。本地优先 + 长期积累。｜Local First. Zero-cost Obsidian sync across iPhone, Mac & GitHub. Let knowledge grow over time.",
+      "desc_prev": "Obsidian 零成本同步：iPhone ↔ Mac，GitHub 自动备份。本地优先 + 长期积累。｜Local First. Zero-cost Obsidian sync across iPhone, Mac & GitHub. Let knowledge grow over time."
     },
     {
-      "full_name": "pazz11/Jnpz",
+      "full_name": "elves-ai/dsh-web-search-firecrawl",
       "previous": "web-ui",
       "current": "tool",
-      "desc_now": "改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用",
-      "desc_prev": "Jnpz（技能配置）: DeepSeek Harness (DSH) web plugin for MCP server management & skill management — JSON-to-MCP hot reload (no restart), zip/.skill upload with SKILL.md auto parsing, bilingual UI."
+      "desc_now": "Firecrawl-backed search provider for the DeepSeek Harness web capability seam (ctx.web)",
+      "desc_prev": "Firecrawl-backed search provider for the DeepSeek Harness web capability seam (ctx.web)"
     },
     {
-      "full_name": "xbzbing/dsh-password-gate",
-      "previous": "coding",
+      "full_name": "gwrsfsfeefdsfs/dsh-skill-curator",
+      "previous": "conversation",
+      "current": "memory",
+      "desc_now": "Meta-skill for DeepSeek Harness: install, create, localize (Codex→DSH), iterate, and feed fixes back into skills. Includes a curated knowledge base with keyword + local bge-small-zh semantic retrieval, a 7-point write-back checklist, anti-bloat archiving, an optional agent hook plugin, and self-validation tools.",
+      "desc_prev": "Meta-skill for DeepSeek Harness: install, create, localize (Codex→DSH), iterate, and feed fixes back into skills. Includes a curated knowledge base with keyword + local bge-small-zh semantic retrieval, a 7-point write-back checklist, anti-bloat archiving, an optional agent hook plugin, and self-validation tools."
+    },
+    {
+      "full_name": "cungphammanh590-star/dsh-quiz",
+      "previous": "agent",
+      "current": "memory",
+      "desc_now": "让碎片化知识随问答深入脑海",
+      "desc_prev": "让碎片化知识随问答深入脑海"
+    },
+    {
+      "full_name": "uckkk/dsh-color",
+      "previous": "conversation",
       "current": "tool",
-      "desc_now": "为 DeepSeek Harness 增加远程访问能力，并通过密码+OTP 进行安全加固。",
-      "desc_prev": "远程访问开发机使用，这只是一个 dsh 插件的 demo，安全功能只有最简单的频次兜底，切勿直接开放在外网。"
+      "desc_now": "颜色工具：hex/rgb/hsl 互转、补色、明暗与对比度",
+      "desc_prev": "颜色工具：hex/rgb/hsl 互转、补色、明暗与对比度"
     },
     {
-      "full_name": "a903067276-rgb/dsh-perm-guard",
+      "full_name": "Mrzhailiming/deepseek-pet",
       "previous": "other",
-      "current": "conversation",
-      "desc_now": "Auto-approval permission guard for DeepSeek Harness: a middle tier between workspace-write and danger-full-access — auto-allows safe ops in trust dirs, always prompts for destructive ones",
-      "desc_prev": null
+      "current": "web-ui",
+      "desc_now": "在 DeepSeek Harness 的 Web 界面里养一只二次元小鲸鱼 —— 你和 Agent 干活它就吃东西",
+      "desc_prev": "deepseek pet"
     }
   ]
 }
