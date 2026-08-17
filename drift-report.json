@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-08-16T22:37:33.580Z",
-  "count": 2,
+  "generated_at": "2026-08-17T01:07:08.350Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "1052326311/dsh-plan-lattice",
-      "previous": "memory",
-      "current": "tool",
-      "desc_now": "Execution-time drift control for long-running DeepSeek Harness agents. Hand-designed test: native executed 12/12 unsafe stale-basis mutations; Plan Lattice 0/12; both executed 7/7 valid controls.",
-      "desc_prev": "Stale-mutation firewall for long-running agents. Real DeepSeek Harness stress test: native 9/9 unsafe mutations, Plan Lattice 0/9. Reproducible benchmark + frozen V13 eval."
-    },
-    {
-      "full_name": "monotykamary/dsh-fovea",
+      "full_name": "wlj521/dsh-ui-tweaks",
       "previous": "web-ui",
-      "current": "tool",
-      "desc_now": "Foveated repository intelligence for DeepSeek Harness: token-budgeted code graphs, focus, impact, and continuous sync.",
-      "desc_prev": "Design-stage DSH-native adaptation of pi-fovea: token-budgeted repository graphs, focused context, impact, and continuous sync."
+      "current": "document",
+      "desc_now": "一切皆插件，可以定义自己喜欢的dsh，开关控制单项功能，字体大小，表格样式，对话框长度，timeline，git等",
+      "desc_prev": "一切皆插件，可以定义自己喜欢的dsh，开关控制单项功能"
     }
   ]
 }
