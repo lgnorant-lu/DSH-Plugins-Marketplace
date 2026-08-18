@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-18T04:54:43.129Z",
-  "count": 8,
+  "generated_at": "2026-08-18T05:42:49.652Z",
+  "count": 9,
   "items": [
+    {
+      "full_name": "magian1127/deepseek-harness-zh_pro",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "DeepSeek Harness (DSH) plugin:  A comprehensive enhancement plugin with UI polish, layout tweaks, prompt injection, and more.  综合性增强插件，界面优化、布局调整与提示词注入等更多功能。",
+      "desc_prev": "Chinese enhancement plugin for DeepSeek Harness (DSH) - DSH 中文增强插件"
+    },
     {
       "full_name": "dushaobindoudou/dsh-acp",
       "previous": "tool",
