@@ -1,89 +1,47 @@
 {
-  "generated_at": "2026-08-18T08:55:08.199Z",
-  "count": 12,
+  "generated_at": "2026-08-18T10:46:09.450Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "zhoushoujianwork/easyeda-agent",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
-      "desc_prev": null
-    },
-    {
-      "full_name": "liyupi/dsh-kun-like-pet",
-      "previous": "vision",
-      "current": "web-ui",
-      "desc_now": "Kun Like 桌宠 —— DeepSeek Harness 桌面宠物插件：右下角小坤宠随 Agent 工作状态切换 9 种动作，任务完成播放「你干嘛~哎哟」",
-      "desc_prev": "Kun Like 桌宠 —— DeepSeek Harness 桌面宠物插件：右下角小坤宠随 Agent 工作状态切换 9 种动作，任务完成播放「你干嘛~哎哟」"
-    },
-    {
-      "full_name": "HeiGeAi/deepseek-harness-skin",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 换肤系统：21 套内置皮肤 + 一张图生成整套配色的自定义皮肤。数据源驱动，保对比度推导，构建期校验可读性。",
-      "desc_prev": "DeepSeek Harness 换肤系统：21 套内置皮肤 + 一张图生成整套配色的自定义皮肤。数据源驱动，保对比度推导，构建期校验可读性。"
-    },
-    {
-      "full_name": "william-jin-cmu/dsh-vision",
-      "previous": "memory",
-      "current": "vision",
-      "desc_now": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
-      "desc_prev": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）"
-    },
-    {
-      "full_name": "TencentCloud/tencentcloud-agentobs-sdk-dsh",
+      "full_name": "dream-num/dsh-univer-office",
       "previous": "other",
-      "current": "tool",
-      "desc_now": "tencentcloud-agentobs-sdk-dsh 是一个 DeepSeek Harness (DSH) 可观测插件，直接将 GenAI trace 数据上报到腾讯云日志服务 (CLS)。  它观察 DSH 原生的 session、agent loop、LLM stream 和 tool 生命周期，将其转换为 腾讯云AI Agent可观测规范的 5 层 span 层级模型（entry → agent → step → chat → tool），并通过 tencentcloud-cls-sdk-js 直接上报到 CLS，无需额外部署 OTLP 收集器或 sidecar。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "Guyao146/dsh-activity-tracker",
-      "previous": "other",
-      "current": "coding",
-      "desc_now": "DSH 活动统计：彩色时间线看什么时候在干活/改代码，每日 token 消耗按项目/日期/小时查看。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "Vocllum/DSH-TDAI-Memory",
-      "previous": "agent",
-      "current": "memory",
-      "desc_now": "让 DeepSeek Harness 拥有可靠、自动且可控的 TencentDB Agent Memory。",
-      "desc_prev": "让 DeepSeek Harness 拥有可靠、自动且可控的 TencentDB Agent Memory。"
-    },
-    {
-      "full_name": "pqkisvery666/dsh-basic-office",
-      "previous": "tool",
       "current": "document",
-      "desc_now": "DSH 办公文件插件：阅读 PDF/DOCX/XLSX/PPTX，生成 DOCX/XLSX/PPTX/PDF/CSV。A DSH plugin for reading and generating common office files.",
-      "desc_prev": "DSH 办公文件插件：阅读 PDF/DOCX/XLSX/PPTX，生成 DOCX/XLSX/PPTX/PDF/CSV。A DSH plugin for reading and generating common office files."
+      "desc_now": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
+      "desc_prev": "Preview Univer sheets, docs & slides inside DeepSeek Harness."
     },
     {
-      "full_name": "nexsjournal/dsh-tryboard-plugin",
-      "previous": "vision",
+      "full_name": "3361805598-gif/dsh-md-annotator",
+      "previous": "other",
       "current": "web-ui",
-      "desc_now": "Trello-style kanban boards inside the DeepSeek Harness (DSH) web GUI: sidebar 看板 entry, multiple workboards, drag & drop, DSH-native styling, persisted in DSH settings",
-      "desc_prev": "Trello-style kanban boards inside the DeepSeek Harness (DSH) web GUI: sidebar 看板 entry, multiple workboards, drag & drop, DSH-native styling, persisted in DSH settings"
-    },
-    {
-      "full_name": "yzlin499/dsh-yzlin499-easy-plugins",
-      "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "非常好的小工具，毛坯房DSH可以看看。",
-      "desc_prev": "非常好的小工具，毛坯房DSH可以看看。"
-    },
-    {
-      "full_name": "wangziyi863/tokbal-pkg-of-ds-harness",
-      "previous": "memory",
-      "current": "other",
       "desc_now": null,
       "desc_prev": null
     },
     {
-      "full_name": "mouyase/dsh-hashline",
+      "full_name": "huchunlinnk/deepseek-desktop",
       "previous": "other",
       "current": "coding",
-      "desc_now": "dsh plugin wrapping hashline line-addressed editor as a native tool",
+      "desc_now": "Native Tauri shell for DeepSeek Harness, self-maintained by deepseek-desk-rsi (AI-for-AI daily sync + 1:1 feature parity)",
+      "desc_prev": null
+    },
+    {
+      "full_name": "huchunlinnk/deepseek-desk-rsi",
+      "previous": "other",
+      "current": "agent",
+      "desc_now": "Recursive Self-Improvement engine for DeepSeek Harness — DSH maintains DSH: bounded perceive→integrate→verify→parity→repair→propose loop enforcing 1:1 upstream feature parity",
+      "desc_prev": null
+    },
+    {
+      "full_name": "AshModeling/dsh-light-theater",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "DSH Web UI 输入框皮肤:跟随主题的「灯光剧场」边框巡游 + 双光束动画,零依赖纯 CSS,一键开关可调参。",
+      "desc_prev": null
+    },
+    {
+      "full_name": "lhwwxy/dsh-agentic-router",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "监听每次模型请求，按任务类型与复杂度把请求路由到最合适的模型档位；四个专家并行推荐、EXP3 元选择器决定听谁的；每回合按质量代理信号（工具失败、模型重试、延迟）计算奖励并回传，路由策略随使用越学越准。全部决策与奖励落盘，可审计、可重放。",
       "desc_prev": null
     }
   ]
