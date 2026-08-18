@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-08-18T12:54:35.999Z",
-  "count": 3,
+  "generated_at": "2026-08-18T14:51:41.778Z",
+  "count": 5,
   "items": [
     {
-      "full_name": "lusblead/dsh-Kingdom",
-      "previous": "conversation",
+      "full_name": "futrime/webdsh",
+      "previous": "other",
       "current": "tool",
-      "desc_now": "独立 dsh 插件（agent governance kingdom）：领地/角色绑定/换届/任务治理闭环（Worker Claim ≠ Fact）+ 领地删除（拒绝优先、force 级联、事件留痕）+ 本地 GUI 操作台。安装：dsh plugin --profile web add dsh-kingdom（npm latest）",
-      "desc_prev": "独立 dsh 插件：安装后在 DSH 会话中初始化/接入本地王国（Phase 1+2 FROZEN，Claim != Fact 治理闭环）"
+      "desc_now": "Browser-only build of DeepSeek Harness",
+      "desc_prev": "Running DeepSeek Harness on web"
     },
     {
-      "full_name": "zhuyun017/dsh-her-companion",
+      "full_name": "lusblead/dsh-Kingdom",
+      "previous": "tool",
+      "current": "agent",
+      "desc_now": "在 DSH 中建立属于你的 Agent 王国——让 Agent 拥有角色、权限、领地与治理秩序，并通过事实验证机制与权威账本，让每一次执行、声明与裁决都可核验、可追溯。",
+      "desc_prev": "独立 dsh 插件（agent governance kingdom）：领地/角色绑定/换届/任务治理闭环（Worker Claim ≠ Fact）+ 领地删除（拒绝优先、force 级联、事件留痕）+ 本地 GUI 操作台。安装：dsh plugin --profile web add dsh-kingdom（npm latest）"
+    },
+    {
+      "full_name": "a903067276-rgb/dsh-plan-switch",
+      "previous": "conversation",
+      "current": "other",
+      "desc_now": "One-click enter/exit Plan mode for the DSH web input bar, a quick-click shortcut for /plan",
+      "desc_prev": "输入框一键进/出 Plan 模式（/plan 的快捷点击），DSH web 小插件"
+    },
+    {
+      "full_name": "WJNCT55555/dsh-achievements",
       "previous": "other",
-      "current": "memory",
-      "desc_now": null,
+      "current": "web-ui",
+      "desc_now": "为了探索dsh 让vibecoding像游戏一样有趣",
       "desc_prev": null
     },
     {
-      "full_name": "uigdwunm/dsh-conversation-nav",
-      "previous": "conversation",
+      "full_name": "Yu-tao-Li/dsh-pin",
+      "previous": "other",
       "current": "web-ui",
-      "desc_now": "为 DSH Web 对话区提供回到顶部 / 上一条 / 下一条 / 回到底部的圆形导航按钮，自动处理更早历史分页。",
+      "desc_now": "Pin DSH sidebar conversations: pin to the top of a workspace, or lift the session into a global tray above ALL workspaces — multi-pin, exact restore, zero deps.",
       "desc_prev": null
     }
   ]
