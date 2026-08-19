@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-19T01:06:30.359Z",
+  "count": 1,
+  "items": [
+    {
+      "full_name": "HQ1995/deepseek-code",
+      "previous": "coding",
+      "current": "other",
+      "desc_now": "DeepSeek Code: Use the DeepSeek Harness via the Grok Build TUI",
+      "desc_prev": "dscode — a terminal UI for AI coding agents (personal project; builds on the open-source grok-build TUI and DeepSeek Harness runtime)"
+    }
+  ]
+}
