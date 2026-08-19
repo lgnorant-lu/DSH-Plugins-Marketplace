@@ -1,20 +1,41 @@
 {
-  "generated_at": "2026-08-19T14:41:27.964Z",
-  "count": 2,
+  "generated_at": "2026-08-19T16:49:38.425Z",
+  "count": 5,
   "items": [
     {
-      "full_name": "Roarpeng/GraphFlow",
+      "full_name": "Han-1413141/dsh-cost-meter",
+      "previous": "resource",
+      "current": "notify",
+      "desc_now": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+      "desc_prev": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance & Custom Provider Balance Lookup, Codex-like Token Heatmap Plugin: Session/Daily Cost, Budget, History, Peak/off-peak pricing, Price Sync, Multi-vendor pricing (90+ catalog), Coding Plan quota queries (6 vendors), Balance progress bar"
+    },
+    {
+      "full_name": "hyqibot/DeepSeek-Harness-Token-Free",
+      "previous": "model",
+      "current": "vision",
+      "desc_now": "A token-free desktop client for the DeepSeek Harness，enjoy！为 DeepSeek Harness (DSH)     生态打造的全免Token费的桌面端 ，极简极易。内置多模态+顶尖工具链能力的大模型 HYQi（Flash / Pro / Image / Video）：生图+生视频均免token费，无需API， 有疑问可二维码进社区交流",
+      "desc_prev": "A token-free desktop client for the DeepSeek Harness，enjoy！为 DeepSeek Harness (DSH)     生态打造的全免Token费的桌面端 ，极简极易。 有疑问或需帮助可二维码进社区交流"
+    },
+    {
+      "full_name": "Yuer6327/NoLetMe",
       "previous": "other",
-      "current": "memory",
-      "desc_now": "Local-first code knowledge graph and context harness for coding agents. MCP + DeepSeek Harness (dsh) plugin.",
+      "current": "web-ui",
+      "desc_now": "Deepseek v4 神鬼二象性观测面板",
       "desc_prev": null
     },
     {
-      "full_name": "sjh9714/repo-cover",
-      "previous": "coding",
-      "current": "web-ui",
-      "desc_now": "Agent skill that designs your GitHub social preview (og:image) as one self-contained HTML file. Five moods, CJK-first, deterministic checks, PNG export. repo cover, opengraph, link card.",
-      "desc_prev": "Agent skill that designs your GitHub social preview (og:image) as one self-contained HTML file. Four editorial moods, CJK-first, deterministic checks, PNG export. repo cover, opengraph, link card."
+      "full_name": "chenaptx/deepseek-harness-mac",
+      "previous": "other",
+      "current": "coding",
+      "desc_now": "Tiny macOS shell for DeepSeek Harness — 132KB Swift+WKWebView, zero Electron",
+      "desc_prev": null
+    },
+    {
+      "full_name": "kaieye/dsh-AIR",
+      "previous": "other",
+      "current": "conversation",
+      "desc_now": "使用 ↑ / ↓ 切换历史发送记录，并通过 /btw 打开停靠式侧边对话。",
+      "desc_prev": null
     }
   ]
 }
