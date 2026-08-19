@@ -1,34 +1,27 @@
 {
-  "generated_at": "2026-08-19T03:14:11.929Z",
-  "count": 4,
+  "generated_at": "2026-08-19T04:52:39.734Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "anneheartrecord/dsh-desk-pet",
-      "previous": "web-ui",
-      "current": "coding",
-      "desc_now": "macOS desk pet for DeepSeek Harness: a real always-on-top window that clears fullscreen Spaces, six states driven by your agent, and a bundled skill that turns one photo into a whole skin. System Python, zero dependencies.",
-      "desc_prev": "Always-on-top DeepSeek Harness desktop pet. Default whale, four skins, four silent states."
-    },
-    {
-      "full_name": "wenbin-wb/dsh-bridge",
+      "full_name": "Tencent-TDS/dsh-kuikly-expert",
       "previous": "tool",
-      "current": "notify",
-      "desc_now": "把你本地的 DeepSeek Harness 无缝延伸到手机、平板、公网、甚至 IM 聊天软件。无论你在哪，都能通过扫码、网页或未来的微信/QQ/飞书，随时调用你的 AI 助手",
-      "desc_prev": "DeepSeek Harness 多通道远程访问插件：局域网二维码 / Cloudflare 隧道 / 自建 WebSocket 隧道"
+      "current": "agent",
+      "desc_now": "Kuikly DeepSeek Harness plugin that turns your AI agent into a Kuikly cross-platform app development expert.",
+      "desc_prev": "Kuikly integration and app-prototyping expert: four bundled skills over the create-kuikly-app CLI"
     },
     {
-      "full_name": "changer-changer/dsh-whale-cards",
+      "full_name": "wangxilhy23/dsh-wx-skin",
       "previous": "web-ui",
       "current": "resource",
-      "desc_now": "A polished local-first DSH Web teahouse: curated mini-games, resumable breaks, and Lanyin companion.",
-      "desc_prev": "A calm, resumable Gin Rummy break with an original whale companion inside DeepSeek Harness."
+      "desc_now": "deepseek harness 皮肤插件。支持选择本地目录下的图片作为背景设置",
+      "desc_prev": null
     },
     {
-      "full_name": "geguanming/dsh-office-plugin",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "DSH Ox-Horse Office - a DeepSeek Harness web plugin rendering multi-agent sessions as a live pixi.js office",
-      "desc_prev": "DSH Ox-Horse Office - a DeepSeek Harness web plugin rendering multi-agent sessions as a live pixi.js office"
+      "full_name": "duhu2000/qcc-mcp-legal-oauth",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness 插件：一键 OAuth 授权连接企查查法律数据 MCP（法律产品：法规/案例） / One-click OAuth connect to Qichacha legal-data MCP (regulation & case) for DeepSeek Harness",
+      "desc_prev": "DeepSeek Harness 插件：一键 OAuth(PKCE) 授权连接企查查法律数据 MCP（法规 legal-regulation / 案例 legal-case）"
     }
   ]
 }
