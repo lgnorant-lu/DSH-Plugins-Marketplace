@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-19T04:52:39.734Z",
-  "count": 3,
+  "generated_at": "2026-08-19T05:37:28.755Z",
+  "count": 6,
   "items": [
+    {
+      "full_name": "simon300000/dsh-auto",
+      "previous": "other",
+      "current": "agent",
+      "desc_now": "Auto Approve with Audit Agent",
+      "desc_prev": "dsh Auto Approve"
+    },
     {
       "full_name": "Tencent-TDS/dsh-kuikly-expert",
       "previous": "tool",
@@ -10,11 +17,25 @@
       "desc_prev": "Kuikly integration and app-prototyping expert: four bundled skills over the create-kuikly-app CLI"
     },
     {
+      "full_name": "wuxiangru915/dsh-review-loop",
+      "previous": "coding",
+      "current": "web-ui",
+      "desc_now": "Incremental diff reviewer for DeepSeek Harness — Web UI review panel + /review command. ",
+      "desc_prev": "Incremental diff reviewer for DeepSeek Harness — Web UI review panel + /review command. 增量代码审查插件：checkpoint 增量队列 + 审查意见注入 agent."
+    },
+    {
       "full_name": "wangxilhy23/dsh-wx-skin",
       "previous": "web-ui",
       "current": "resource",
       "desc_now": "deepseek harness 皮肤插件。支持选择本地目录下的图片作为背景设置",
       "desc_prev": null
+    },
+    {
+      "full_name": "wuxiangru915/dsh-session-manager",
+      "previous": "conversation",
+      "current": "other",
+      "desc_now": "Session manager for DeepSeek Harness: restore archived sessions, delete-all, inline content preview.",
+      "desc_prev": "DSH 会话管理插件：归档会话恢复/删除、全部会话总览、内容预览 · Session manager for DeepSeek Harness: restore archived sessions, delete-all, inline content preview."
     },
     {
       "full_name": "duhu2000/qcc-mcp-legal-oauth",
