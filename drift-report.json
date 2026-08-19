@@ -1,34 +1,55 @@
 {
-  "generated_at": "2026-08-19T07:10:58.240Z",
-  "count": 4,
+  "generated_at": "2026-08-19T08:54:26.029Z",
+  "count": 7,
   "items": [
     {
-      "full_name": "Nrxous/dsh-context7",
-      "previous": "other",
+      "full_name": "vibeinging/deepseek-harness-desktop-app",
+      "previous": "conversation",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "desc_prev": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts."
+    },
+    {
+      "full_name": "Lyn-77/ProMentor",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。",
+      "desc_prev": "ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。"
+    },
+    {
+      "full_name": "anweat/dsh-web-search-pro",
+      "previous": "coding",
+      "current": "tool",
+      "desc_now": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "desc_prev": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)"
+    },
+    {
+      "full_name": "Max-Samson/dsh-usage-chart",
+      "previous": "model",
       "current": "resource",
+      "desc_now": "A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.",
+      "desc_prev": "A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance."
+    },
+    {
+      "full_name": "WyxBUPT-22/dsh-plugin-edit-message",
+      "previous": "model",
+      "current": "other",
       "desc_now": null,
       "desc_prev": null
     },
     {
-      "full_name": "EIGHTfs/dsh-git-rescue",
-      "previous": "tool",
-      "current": "model",
-      "desc_now": "DSH git 版本管理 + 崩溃自动救援插件（仅 GitHub token 方案）",
-      "desc_prev": "DSH git 版本管理 + 崩溃自动救援插件（仅 GitHub token 方案）"
-    },
-    {
-      "full_name": "KaramachiA217/dsh-bundle-manager",
+      "full_name": "mike-lee0120/dsh-cost-dashboard",
       "previous": "other",
-      "current": "tool",
-      "desc_now": "Runtime mount manager for optional third-party plugins in DeepSeek Harness - mount/unmount bundle rows in-process via the Loader API (instant, no restart, never touches the profile manifest), with named presets and self-healing failure fallback.",
+      "current": "model",
+      "desc_now": null,
       "desc_prev": null
     },
     {
-      "full_name": "statem-li/dsh-webui",
-      "previous": "web-ui",
-      "current": "memory",
-      "desc_now": "DeepSeek Harness 会话增强全家桶：视图/消息导航、工具聚合、Markdown 渲染、本地记忆、用量工作台、技能管理、文件浏览器、供应商设置、AI 浏览器、生图/视觉、峰谷时刻卡片等",
-      "desc_prev": "webui：右上角「对话/轨迹」图块视图切换 + 会话消息导航（消息弹窗、右侧消息横条）"
+      "full_name": "linziyanleo/dsh-custom-provider",
+      "previous": "resource",
+      "current": "tool",
+      "desc_now": "Configure custom LLM providers in DeepSeek Harness.",
+      "desc_prev": "Configure static OpenAI-compatible providers and model catalogs in DeepSeek Harness."
     }
   ]
 }
