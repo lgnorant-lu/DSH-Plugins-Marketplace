@@ -1,13 +1,48 @@
 {
-  "generated_at": "2026-08-20T07:01:28.288Z",
-  "count": 1,
+  "generated_at": "2026-08-20T09:00:19.357Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "DshMarketPlace/dshmarketplace",
+      "full_name": "Nagi-ovo/dsh-visualize",
+      "previous": "agent",
+      "current": "conversation",
+      "desc_now": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "desc_prev": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations"
+    },
+    {
+      "full_name": "william-jin-cmu/dsh-vision",
+      "previous": "memory",
+      "current": "vision",
+      "desc_now": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
+      "desc_prev": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）"
+    },
+    {
+      "full_name": "6Mikao9/dsh-wsl-workspace",
+      "previous": "web-ui",
+      "current": "other",
+      "desc_now": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.",
+      "desc_prev": "WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI."
+    },
+    {
+      "full_name": "Bin-hy/dsh",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "源码级拆解 DeepSeek Harness · 面向 Agent 开发者的中文学习资料",
+      "desc_prev": "源码级拆解 DeepSeek Harness · 面向 Agent 开发者的中文学习资料"
+    },
+    {
+      "full_name": "FeatherHunter/dsh-chinese-skill-patch",
       "previous": "other",
       "current": "tool",
-      "desc_now": "Bilingual directory of DeepSeek Harness (DSH) plugins — 3,400+ listings, sandbox-verified install commands, written detail pages, public API. Next.js on Cloudflare Workers.",
-      "desc_prev": "Bilingual directory of DeepSeek Harness (DSH) plugins — 1,004 listings, written detail pages, public API. Next.js on Cloudflare Workers."
+      "desc_now": "让 DSH 原生支持中文技能名 · Make DSH discover Chinese skill names without renaming — /私 → 私家大厨 · More by @FeatherHunter: 🎨 dsh-opencode-palette · ⚡ dsh-prompt",
+      "desc_prev": "DSH plugin: allow Chinese (Unicode-letter) skill names in SKILL.md without renaming to kebab-case"
+    },
+    {
+      "full_name": "whaojie797-design/Novera-AI-agent",
+      "previous": "agent",
+      "current": "coding",
+      "desc_now": "四智能体 AI 编程流水线提示词：需求规格官→编码官→重构官→架构守门官，钢铁笼子质量关卡（覆盖率/圈复杂度/变异得分）+ 失败路由表，让 AI 互相制衡、机器卡终局 | Four-agent AI coding pipeline prompts (Specifier→Coder→Refactorer→Architect) with steel-cage quality gates, mutation testing and failure routing.",
+      "desc_prev": "四智能体 AI 编程流水线提示词：需求规格官→编码官→重构官→架构守门官，钢铁笼子质量关卡（覆盖率/圈复杂度/变异得分）+ 失败路由表，让 AI 互相制衡、机器卡终局 | Four-agent AI coding pipeline prompts (Specifier→Coder→Refactorer→Architect) with steel-cage quality gates, mutation testing and failure routing."
     }
   ]
 }
