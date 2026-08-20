@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-20T04:44:02.617Z",
-  "count": 4,
+  "generated_at": "2026-08-20T05:30:38.377Z",
+  "count": 5,
   "items": [
+    {
+      "full_name": "baisama-cloud/dsh-custom-brand",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "DeepSeek Harness（DSH）网页界面可自定义品牌区域——用您自己的本地图片替换鲸鱼标志和 DeepSeek 字标，并编辑 HARNESS 徽章文字。",
+      "desc_prev": null
+    },
     {
       "full_name": "winyh/dsh-growth",
       "previous": "other",
