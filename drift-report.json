@@ -1,41 +1,34 @@
 {
-  "generated_at": "2026-08-21T08:45:20.778Z",
-  "count": 5,
+  "generated_at": "2026-08-21T10:38:07.857Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "william-jin-cmu/dsh-vision",
-      "previous": "memory",
-      "current": "vision",
-      "desc_now": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
-      "desc_prev": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）"
+      "full_name": "lonelymoon87/dsh-gitflow",
+      "previous": "agent",
+      "current": "tool",
+      "desc_now": "Git status, diff, log, commit, branch, and optional Change Ledger tools for DeepSeek Harness.",
+      "desc_prev": "Git status, diff, commit, pull request, and worktree workflows for DeepSeek Harness."
     },
     {
-      "full_name": "Xilin3/dsh-prompt-persona",
-      "previous": "tool",
-      "current": "conversation",
-      "desc_now": "DSH plugin: edit the system prompt (deployment persona) from the Settings page, with live preview.",
-      "desc_prev": "DSH plugin: edit the system prompt (deployment persona) from the Settings page, with live preview."
-    },
-    {
-      "full_name": "Mingbing-get/holdRein",
-      "previous": "web-ui",
-      "current": "agent",
-      "desc_now": "Hold Rein 是一个本地优先、模型无关、可通过插件扩展的 AI Agent 工作台",
-      "desc_prev": "Hold Rein 是一个本地优先、模型无关、可通过插件扩展的 AI Agent 工作台"
-    },
-    {
-      "full_name": "nightwhale-dev/nightwhale",
-      "previous": "web-ui",
-      "current": "coding",
-      "desc_now": "The community power-layer for DeepSeek Harness (dsh). 夜鲲 — 吞并生态好能力,评测集筛选,只喂真正有效的增强。",
-      "desc_prev": "The community power-layer for DeepSeek Harness (dsh). 夜鲲 — 吞并生态好能力,评测集筛选,只喂真正有效的增强。"
-    },
-    {
-      "full_name": "Mrlilili/dsh-plugin-model-switcher",
+      "full_name": "derekhu0002/archgraph",
       "previous": "other",
-      "current": "model",
-      "desc_now": "⌨️ DSH 插件：快捷键切换模型 (Ctrl+Shift+M) 和推理等级 (Ctrl+Shift+R)。纯客户端实现，无需 Host。  DSH plugin: keyboard shortcuts to cycle models (Ctrl+Shift+M) and reasoning effort levels (Ctrl+Shift+R). Pure client bundle, no Host required.",
-      "desc_prev": null
+      "current": "memory",
+      "desc_now": "An architecture-graph driven framework for Agentic Engineering.",
+      "desc_prev": "An architecture-graph driven framework for Agentic Engineering."
+    },
+    {
+      "full_name": "nickhelion/dsh-serverchan-notify",
+      "previous": "conversation",
+      "current": "other",
+      "desc_now": "Archived: moved to nickhelion/dsh-plugins",
+      "desc_prev": "DeepSeek Harness plugin: ServerChan3 (Server酱) push notifications whenever an agent turn finishes an answer — codex Stop-hook parity"
+    },
+    {
+      "full_name": "ShanHaiFish/dsh-plugin-manager-lite",
+      "previous": "resource",
+      "current": "tool",
+      "desc_now": "DSH 第三方插件管理器（lite）：在设置页「插件 → 第三方插件」列出非官方插件，提供启用/停用（状态持久化、重启后保持）、卸载、检查更新、npm 一键安装/升级。A lite manager for third-party DeepSeek Harness plugins: list / enable / disable / uninstall / update.",
+      "desc_prev": "已迁移并入 dsh-plugins 插件组仓库（本仓库归档，v0.1.0 Release 保留）。Moved into ShanHaiFish/dsh-plugins monorepo; this repo is archived."
     }
   ]
 }
