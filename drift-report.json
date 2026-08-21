@@ -1,20 +1,48 @@
 {
-  "generated_at": "2026-08-21T14:58:11.320Z",
-  "count": 2,
+  "generated_at": "2026-08-21T16:51:44.037Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "EIGHTfs/dsh-git-rescue",
-      "previous": "model",
-      "current": "tool",
-      "desc_now": "DSH 救援恢复插件：守护进程 + git 仓库恢复 + 救援环境 + 安装器（2.0.0 完全重构）",
-      "desc_prev": "DSH git 版本管理 + 崩溃自动救援插件（仅 GitHub token 方案）"
+      "full_name": "sd1g1/dsh-image-describe",
+      "previous": "tool",
+      "current": "vision",
+      "desc_now": "DeepSeek Harness 图片多模态描述插件",
+      "desc_prev": "DeepSeek Harness 宿主插件：让纯文本主模型也能通过 describe_image 工具“看图”"
     },
     {
-      "full_name": "qiqiangvae/dsh-input-enhancer",
+      "full_name": "duhu2000/dsh-mcp-connector",
       "previous": "other",
       "current": "tool",
-      "desc_now": "一个输入框增强工具，可以锁住发送按钮、暂存输入框内容",
-      "desc_prev": "An extension to enhance the DeepSeek Harness input box"
+      "desc_now": "DeepSeek Harness 通用 MCP连接器、连接管理与扩展市场：连接 MCP Server，发现工具与 Prompt，扩展 AI 技能；支持 OAuth/PKCE、API Key、JSON 导入。由企查查（Qichacha/QCC）团队发起维护。General-purpose MCP connector, connection manager, plugin, extension and integration marketplace.",
+      "desc_prev": "DeepSeek Harness MCP Connector marketplace and connection manager"
+    },
+    {
+      "full_name": "sd1g1/dsh-subagent-model-override",
+      "previous": "conversation",
+      "current": "agent",
+      "desc_now": "DeepSeek Harness 子代理模型策略覆盖插件",
+      "desc_prev": "DeepSeek Harness 插件：全局强制进程内子代理会话使用统一 LLM 路由"
+    },
+    {
+      "full_name": "sd1g1/dsh-minimal-rules",
+      "previous": "conversation",
+      "current": "other",
+      "desc_now": "DeepSeek Harness 极简模式规则注入插件",
+      "desc_prev": "DSH 插件：极简模式下将 AGENTS.md 规则组装为独立 system-reminder 消息注入，支持恢复会话自动补充，并提供 global / global+project / all+creative 模式下拉菜单。"
+    },
+    {
+      "full_name": "LittleFishStars/dsh-opencode-tui",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "为 DeepSeek Harness 制作的仿 OpenCode 的 TUI 界面插件",
+      "desc_prev": null
+    },
+    {
+      "full_name": "TOBYCAI/image-mcp",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "本地 Pillow 图片处理 MCP：12 工具（信息/缩放/裁剪/转换/压缩/旋转/翻转/缩略图/水印/特效/占位/叠加），离线零成本，经 dsh-mcp-client 接入 DSH。Local Pillow image MCP with 12 tools for DeepSeek Harness, offline & free. | Platforms: macOS/Windows/Linux (Python+Pillow)",
+      "desc_prev": "本地 Pillow 图片处理 MCP Server：12 个工具（信息/缩放/裁剪/转换/压缩/旋转/翻转/缩略图/水印/特效/占位/叠加），离线零成本，经 dsh-mcp-client 接入 DSH。Local Pillow image-processing MCP with 12 tools, offline & free, for DeepSeek Harness via dsh-mcp-client."
     }
   ]
 }
