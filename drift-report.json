@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-08-21T10:38:07.857Z",
-  "count": 4,
+  "generated_at": "2026-08-21T12:46:38.665Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "lonelymoon87/dsh-gitflow",
-      "previous": "agent",
-      "current": "tool",
-      "desc_now": "Git status, diff, log, commit, branch, and optional Change Ledger tools for DeepSeek Harness.",
-      "desc_prev": "Git status, diff, commit, pull request, and worktree workflows for DeepSeek Harness."
-    },
-    {
-      "full_name": "derekhu0002/archgraph",
-      "previous": "other",
-      "current": "memory",
-      "desc_now": "An architecture-graph driven framework for Agentic Engineering.",
-      "desc_prev": "An architecture-graph driven framework for Agentic Engineering."
-    },
-    {
-      "full_name": "nickhelion/dsh-serverchan-notify",
-      "previous": "conversation",
-      "current": "other",
-      "desc_now": "Archived: moved to nickhelion/dsh-plugins",
-      "desc_prev": "DeepSeek Harness plugin: ServerChan3 (Server酱) push notifications whenever an agent turn finishes an answer — codex Stop-hook parity"
-    },
-    {
-      "full_name": "ShanHaiFish/dsh-plugin-manager-lite",
-      "previous": "resource",
-      "current": "tool",
-      "desc_now": "DSH 第三方插件管理器（lite）：在设置页「插件 → 第三方插件」列出非官方插件，提供启用/停用（状态持久化、重启后保持）、卸载、检查更新、npm 一键安装/升级。A lite manager for third-party DeepSeek Harness plugins: list / enable / disable / uninstall / update.",
-      "desc_prev": "已迁移并入 dsh-plugins 插件组仓库（本仓库归档，v0.1.0 Release 保留）。Moved into ShanHaiFish/dsh-plugins monorepo; this repo is archived."
+      "full_name": "WSL043/dsh-codex-subscription",
+      "previous": "tool",
+      "current": "vision",
+      "desc_now": "DeepSeek Harness 的 ChatGPT/Codex 订阅插件：独立 OAuth、模型、真实额度、搜索与图片；无需 API Key 或 Codex CLI",
+      "desc_prev": "在 DeepSeek Harness 中直接使用 ChatGPT/Codex 订阅，无需 OpenAI API Key 或额外客户端，支持 OAuth 登录、订阅搜索与额度显示 | ChatGPT/Codex subscription plugin for DSH"
     }
   ]
 }
