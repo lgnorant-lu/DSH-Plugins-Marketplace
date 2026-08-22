@@ -1,48 +1,27 @@
 {
-  "generated_at": "2026-08-22T08:34:23.589Z",
-  "count": 6,
+  "generated_at": "2026-08-22T10:30:22.884Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "Ayase34/gal-view",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "把dsh会话界面切换成galgame游戏界面的插件",
-      "desc_prev": "把dsh会话界面切换成galgame游戏界面的插件"
-    },
-    {
-      "full_name": "william-jin-cmu/dsh-vision",
-      "previous": "memory",
-      "current": "vision",
-      "desc_now": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）",
-      "desc_prev": "dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型）"
-    },
-    {
-      "full_name": "Sparrived/DSH-Deeptop",
-      "previous": "other",
-      "current": "coding",
-      "desc_now": "Deeptop, a lightweight native desktop client for DeepSeek Harness.",
-      "desc_prev": "Deeptop, a lightweight native desktop client for DeepSeek Harness."
-    },
-    {
-      "full_name": "WSYXIUBA/dsh-plugin-starmap",
+      "full_name": "Wenaixi/dsh-ponytail",
       "previous": "tool",
       "current": "other",
-      "desc_now": "🪐 DSH 插件星座图 — DeepSeek Harness 插件依赖关系可视化（自动扫描/分类/依赖图）",
-      "desc_prev": "🪐 DSH 插件星座图 — DeepSeek Harness 插件依赖关系可视化（自动扫描/分类/依赖图）"
+      "desc_now": "DSH 完整移植版 DietrichGebert/ponytail — 懒惰 senior 模式，hook注入",
+      "desc_prev": "DSH 完整移植版 DietrichGebert/ponytail — 懒惰 senior 模式，6 个中文 Skill，无空 tool"
     },
     {
-      "full_name": "yanglingrise/dsh-erii-boot-splash",
+      "full_name": "Wenaixi/dsh-superpower",
       "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "Erii (Sakura) themed boot splash animation for the DeepSeek Harness Web UI: falling sakura petals, a mint monster mascot, and the line \"Sakura, walk slower.\" Auto fades out; pure client-side.",
-      "desc_prev": "Erii (Sakura) themed boot splash animation for the DeepSeek Harness Web UI: falling sakura petals, a mint monster mascot, and the line \"Sakura, walk slower.\" Auto fades out; pure client-side."
+      "current": "agent",
+      "desc_now": "DSH port of obra/superpowers — 完整移植、中文化、DSH 原生",
+      "desc_prev": "DSH port of obra/superpowers — 14 技能完整移植、中文化、DSH 原生 SkillProvider (sync v6.3.0)"
     },
     {
-      "full_name": "ericleoo/dsh-escalation-tolerance",
-      "previous": "other",
+      "full_name": "zhangz-2018/dsh-project-orchestrator",
+      "previous": "agent",
       "current": "tool",
-      "desc_now": "Tolerate redundant sandbox_permissions requests: a Cordis plugin that turns hard failures into harmless no-ops when a tool asks for a permission mode that is already active.",
-      "desc_prev": "Tolerate redundant sandbox_permissions requests: a Cordis plugin that turns hard failures into harmless no-ops when a tool asks for a permission mode that is already active."
+      "desc_now": "Local-first AI project orchestration workbench and CLI plugin for DeepSeek Harness: approval-gated planning, Git worktrees, task execution, Issues, and auditable evidence.",
+      "desc_prev": "DeepSeek Harness 持久化、审批驱动的项目编排工作台"
     }
   ]
 }
