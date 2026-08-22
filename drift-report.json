@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-22T00:54:41.212Z",
+  "count": 1,
+  "items": [
+    {
+      "full_name": "TYEclipse/dsh-webfetch",
+      "previous": "other",
+      "current": "resource",
+      "desc_now": "Web page reader for DeepSeek Harness (dsh): fetch any URL as clean Markdown/plain text, inventory links, read RSS/Atom feeds — zero runtime dependencies, built-in http proxy support",
+      "desc_prev": "Web page reader for DeepSeek Harness (dsh): fetch any URL and extract clean Markdown / plain text plus a link inventory - zero runtime dependencies, read-only"
+    }
+  ]
+}
