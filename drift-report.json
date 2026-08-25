@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-08-25T15:02:46.269Z",
-  "count": 1,
+  "generated_at": "2026-08-25T16:34:00.198Z",
+  "count": 2,
   "items": [
     {
-      "full_name": "cherrchen/dsh-plugin-git",
-      "previous": "other",
+      "full_name": "aorucshiea/dsh-preset-switch",
+      "previous": "agent",
       "current": "web-ui",
-      "desc_now": "DSH Git 仓库服务与 Client UI 插件，依赖 Details Host；DeepSeek Harness Desktop 预装。 / DSH Git repository service and client UI; requires Details Host; pre-installed in DeepSeek Harness Desktop.",
+      "desc_now": "Optional mid-session agent-preset switching for DeepSeek Harness",
+      "desc_prev": "Optional mid-session agent-preset switching for DeepSeek Harness"
+    },
+    {
+      "full_name": "Marsax110/dsh-model-fixer",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "模型无关的沙箱升级修正 + 按模型定制的协议提示段：任何模型（GPT 系最常见）在工具调用中错误携带 sandbox_permissions/justification 导致 'not strictly wider' 死循环时自动剥离；并按会话模型动态注入适配提示段。非 bundle 插件，HMR 实时生效。",
       "desc_prev": null
     }
   ]
