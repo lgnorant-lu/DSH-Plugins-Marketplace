@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T18:44:51.541Z",
+  "generated_at": "2026-08-25T20:36:37.885Z",
   "counts": {
-    "bundle-plugin": 1112,
-    "cordis-plugin": 7710,
+    "bundle-plugin": 1122,
+    "cordis-plugin": 7711,
     "pkg-plain": 871,
     "manual": 650,
     "script": 200,
@@ -2699,6 +2699,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "aorucshiea/dsh-easy-start",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "aorucshiea/dsh-omnipotent-preset",
       "verdict": "agent-preset"
     },
@@ -2816,6 +2820,10 @@
     },
     {
       "full_name": "arcships/dsh-llm-aimux",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Ardig24/dsh-trajectory-ablation",
       "verdict": "cordis-plugin"
     },
     {
@@ -5277,6 +5285,10 @@
     {
       "full_name": "chaojixinren/dsh-reviewer-bot",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "chaoliu615/dsh-agnes",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chaos-03x/dsh-agy",
@@ -8227,6 +8239,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "dongsheng123132/dsh-windows-settlement-proof",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "dongsheng123132/dsh-xiapan-media",
       "verdict": "cordis-plugin"
     },
@@ -8381,6 +8397,10 @@
     {
       "full_name": "drfccv/dsh-theme-neko",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Drhushi/dsh-plugin-tav2",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Drifter-yh/dsh-tool-policy",
@@ -9567,6 +9587,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "falling-ts/dsh-force-compact",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "falser101/dsh-mascot",
       "verdict": "cordis-plugin"
     },
@@ -10156,6 +10180,10 @@
     },
     {
       "full_name": "Flonger/dsh-balance-vision",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Flonger/dsh-multi-clear",
       "verdict": "bundle-plugin"
     },
     {
@@ -19787,6 +19815,14 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "LucienLL/dsh-session-memo",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "LucienLL/dsh-session-status",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lucifer726/dsh-safe-updater",
       "verdict": "cordis-plugin"
     },
@@ -21063,6 +21099,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Meteor-system/superpowers-for-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "verdict": "manual"
     },
@@ -21804,6 +21844,10 @@
     },
     {
       "full_name": "Momojie-S/dsh-right-dock",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Momojie-S/dsh-subagent-cleanup",
       "verdict": "bundle-plugin"
     },
     {
