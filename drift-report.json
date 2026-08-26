@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-08-26T06:58:55.616Z",
-  "count": 1,
+  "generated_at": "2026-08-26T08:41:37.036Z",
+  "count": 7,
   "items": [
     {
-      "full_name": "luxueliu/luxueliu-dsh-md-writing-tools",
-      "previous": "web-ui",
-      "current": "coding",
-      "desc_now": "给 DSH 侧边栏的 Markdown 编辑器补上加粗、斜体、标题、格式刷等写作快捷键",
-      "desc_prev": null
+      "full_name": "hanshenmesen/dsh-turn-delete",
+      "previous": "tool",
+      "current": "conversation",
+      "desc_now": "Delete one complete turn from a DeepSeek Harness session without deleting the session",
+      "desc_prev": "Delete one complete turn from a DeepSeek Harness session without deleting the session"
+    },
+    {
+      "full_name": "Stormycry-cryp/dsh-AuthInOne",
+      "previous": "coding",
+      "current": "model",
+      "desc_now": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.",
+      "desc_prev": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps."
+    },
+    {
+      "full_name": "Tasihi89/dsh-talk-map",
+      "previous": "tool",
+      "current": "memory",
+      "desc_now": "Visual conversation map for DeepSeek Harness — sessions as cards on a whiteboard: drag to arrange, double-click to chat, draw an edge to fork with injected context. ADHD-friendly spatial memory. · DSH 可视化对话地图",
+      "desc_prev": "Visual conversation map for DeepSeek Harness — sessions as cards on a whiteboard: drag to arrange, double-click to chat, draw an edge to fork with injected context. ADHD-friendly spatial memory. · DSH 可视化对话地图"
+    },
+    {
+      "full_name": "anweat/dsh-web-search-pro",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "desc_prev": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)"
+    },
+    {
+      "full_name": "SiriLee/dsh-rewind",
+      "previous": "tool",
+      "current": "memory",
+      "desc_now": "DeepSeek Harness plugin: in-place conversation rewind in the same session window (Claude Code /rewind semantics) + optional file restore",
+      "desc_prev": "DeepSeek Harness plugin: in-place conversation rewind in the same session window (Claude Code /rewind semantics) + optional file restore"
+    },
+    {
+      "full_name": "Ultronen/dsh-archived-chats",
+      "previous": "tool",
+      "current": "resource",
+      "desc_now": "会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local.",
+      "desc_prev": "本地归档聊天中心：搜索和预览完整对话、历史版本与恢复副本、ZIP 备份、可撤销回收站、保留策略及来源与分支。Local archived-chat manager: full-text preview, local history, restore-as-copy, ZIP backups, Recycle Bin, retention, and Origins & Branches."
+    },
+    {
+      "full_name": "stultuss/dsh-clear-tool-results",
+      "previous": "tool",
+      "current": "resource",
+      "desc_now": "DSH 宿主插件：每轮对话结束后，把该轮的原始工具结果归档（tool result）到会话目录（tool-result-logs），并从上下文中清除，减少 Token 消耗；模型可用 read_tool_result_log 工具按轮次或时间自主读取归档数据。",
+      "desc_prev": "DeepSeek Harness（DSH）host 平面插件：**每个 turn 结束时，把上一轮产生的 `tool/result` 从模型上下文中清除**，并提供聊天命令开关："
     }
   ]
 }
