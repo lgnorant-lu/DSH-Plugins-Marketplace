@@ -6275,6 +6275,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "chumingjun/dsh-harness-one",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "chumingjun/harness-one",
       "verdict": "pkg-plain"
     },
@@ -6741,6 +6745,10 @@
     {
       "full_name": "coderdailyone/dsh-plugin-web-search-tavily",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "CodermanYHZ/dsh-node-flow",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "coderPerseus/dsh-hub",
@@ -9063,6 +9071,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "dsh-ssh/dsh-ssh",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "dsh-tui-ecosystem/dsh-code-memory",
       "verdict": "cordis-plugin"
     },
@@ -9643,6 +9655,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "EmptyCollin/dsh-peak-valley-queue",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "EmptyCollin/dsh-todo-enhancer",
       "verdict": "cordis-plugin"
     },
@@ -10129,6 +10145,10 @@
     {
       "full_name": "fakechris/dsh-track",
       "verdict": "skill"
+    },
+    {
+      "full_name": "Fakek0f3sT/dsh-mcp-diff",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "FALda-da/ds-desktop-launcher",
@@ -11141,6 +11161,10 @@
     {
       "full_name": "Fu3rte/dsh-sight",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fu827707013/dsh-concurrency-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fufankeji/deepseek-harness-studio",
@@ -13513,6 +13537,10 @@
     {
       "full_name": "hg1048596-pixel/dsh-recall-unread",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "hhb1028/dsh-retry-boost",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hherosoul/dsh-smart-charts",
@@ -16071,6 +16099,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "jinwendijv/dsh-applauncher",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "jinxlux/xiao-theme-dsh-ui-plugin",
       "verdict": "bundle-plugin"
     },
@@ -16700,6 +16732,10 @@
     },
     {
       "full_name": "jsoncode/dsh-balance-by-token",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jsoncode/dsh-free-model",
       "verdict": "bundle-plugin"
     },
     {
@@ -17737,6 +17773,10 @@
     {
       "full_name": "kira4094/dsh-system-fonts",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "kirbylynx/dsh-hub",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "kirigayakazima/brockdsaver",
@@ -20123,6 +20163,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "liuwenji007/dsh-trust-check",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "liuwudi123/dsh-lan-exposure",
       "verdict": "cordis-plugin"
     },
@@ -22079,6 +22123,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "me93-ghb/dsh-matrix-think",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "me9rez/dsh-vlm-bridge",
       "verdict": "cordis-plugin"
     },
@@ -22217,6 +22265,10 @@
     {
       "full_name": "Mengshang-spec/dsh-plugin-trustlens",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Mengshang-spec/dsh-third-party-api-balance-wallet",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "mengyaoi/dsh-mcp-pack",
@@ -22448,6 +22500,10 @@
     },
     {
       "full_name": "MicroWearld/dsh-subagent-a2a",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Mide69/dsh-boot-doctor",
       "verdict": "cordis-plugin"
     },
     {
@@ -27411,6 +27467,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Quqing-future/dsh-jimeng",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "QvShui/dsh-llm-qwen",
       "verdict": "cordis-plugin"
     },
@@ -29797,6 +29857,10 @@
     {
       "full_name": "Sean-Gao/DSH",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SeanWang114514/dsh-memo-notebook",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "seanwhy/dsh-restart-confirm",
@@ -45380,6 +45444,10 @@
     },
     {
       "full_name": "yongshuai0314/dsh-readcache",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yongshuai0314/dsh-turnsnap",
       "verdict": "bundle-plugin"
     },
     {
