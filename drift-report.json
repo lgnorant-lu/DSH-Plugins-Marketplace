@@ -1,48 +1,20 @@
 {
-  "generated_at": "2026-08-28T17:22:39.074Z",
-  "count": 6,
+  "generated_at": "2026-08-28T23:34:55.562Z",
+  "count": 2,
   "items": [
     {
-      "full_name": "sluminositys/dsh-nested-followups",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "Ask about any earlier answer without polluting the main agent context. Real, nested session branches for DeepSeek Harness.",
-      "desc_prev": "Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。"
-    },
-    {
-      "full_name": "better-er/dsh-live-token-stats",
-      "previous": "tool",
-      "current": "coding",
-      "desc_now": "DSH Web 插件：基于 DeepSeek 官方 BPE 分词器，在 composer 下方实时渲染 token 状态带，显示流式 TPS、输出 token 与首字延迟，并对比上次 step 的估算与实际偏差；纯插件自包含，不改 DSH 源码",
-      "desc_prev": "dsh·实时 Token 统计·溺水检测插件"
-    },
-    {
-      "full_name": "Lbunc/dsh-local-llm-controller",
-      "previous": "vision",
-      "current": "tool",
-      "desc_now": "为DSH接入本地大模型能力：在「设置→插件」页一键启停本地 llama.cpp 大模型（双槽x双模态x双预设），卡片内配置、一条命令安装、自动注册，装完即用。 | Enable local large model capabilities for DSH: One-click start/stop for local llama.cpp models (dual‑slot × dual‑modal × dual‑preset) right in Settings → Plugins; configure within the card, install with a single command, automatically register, and ready to use ",
-      "desc_prev": "为DSH接入本地大模型能力：在「设置→插件」页一键启停本地 llama.cpp 大模型（35B/9B，视觉×文本×快速/长上下文），卡片内配置、一条命令安装、自动注册，装完即用。 | start/stop a local llama.cpp llama-server right from Settings → Plugins, with Qwen3.6-35B / Qwen3.5-9B (vision × text, fast × long-context) as session models — card config, one-command install, auto-registered."
-    },
-    {
-      "full_name": "KhalilHsu/dsh-plugins",
+      "full_name": "tma1-ai/dsh-otel",
       "previous": "other",
-      "current": "tool",
-      "desc_now": "Enhance DeepSeek Harness Web GUI with smart per-turn reasoning/tool folding and query navigation.",
-      "desc_prev": null
+      "current": "model",
+      "desc_now": "What a DeepSeek Harness run costs in tokens, money, and time. OpenTelemetry traces, metrics, and logs in GreptimeDB, with seven Grafana dashboards.",
+      "desc_prev": "OpenTelemetry traces, metrics, and logs for DeepSeek Harness, written straight into GreptimeDB"
     },
     {
-      "full_name": "Drhushi/dsh-plugin-tav2",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 插件 —— 对话式游戏本地化：跟 AI 助手说说话，完成游戏翻译全流程。引擎适配器架构，首发支持 Ren'Py。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "zhm20001/dsh-usage-board",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "dsh-usage-board 是专为 DSH (DeepSeek Harness) 设计的用量与成本可视化看板插件。  插件能实时捕获会话内的 Token 消耗、Step 耗时和异常指标，支持冷启动增量回溯历史全量会话，并按 Sub-agent DAG 调用关系进行树状归集与反向明细穿透。",
-      "desc_prev": null
+      "full_name": "XianmingLF/xmlf-plugin-manager",
+      "previous": "coding",
+      "current": "resource",
+      "desc_now": "管理当前第三方已安装插件的信息 比较简单的版本 可按照自己的需求修改",
+      "desc_prev": "管理当前第三方已安装插件的信息 比较简单的版本 可按照自己的需求修改 github地址安装正在开发"
     }
   ]
 }
