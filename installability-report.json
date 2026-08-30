@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T19:21:46.857Z",
+  "generated_at": "2026-08-30T22:38:01.715Z",
   "counts": {
-    "bundle-plugin": 2187,
+    "bundle-plugin": 2195,
     "cordis-plugin": 7796,
-    "pkg-plain": 974,
-    "manual": 703,
+    "pkg-plain": 975,
+    "manual": 704,
     "script": 223,
     "skill": 372,
     "multi-plugin": 400,
@@ -7867,6 +7867,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "d3vmeh/dsh-turn-doctor",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "D4Cluv-Train/dsh-plugin-manager",
       "verdict": "cordis-plugin"
     },
@@ -8901,6 +8905,10 @@
     {
       "full_name": "Djokovical5294/DeepSeek-Harness-Token-Free",
       "verdict": "manual"
+    },
+    {
+      "full_name": "djs326/dsh-titlebar-feed",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "djt889/dsh-drag-to-attachment",
@@ -10293,6 +10301,10 @@
     {
       "full_name": "EnkiduGilgamesh/dsh-codex-side-outline",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Entaum/dsh-free-games",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Enter3211/dsh-web-search-all-modes",
@@ -17879,6 +17891,10 @@
       "verdict": "empty"
     },
     {
+      "full_name": "Jstn-1g/dsh-live-voice",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "jstudio1024/dsh-office-helper",
       "verdict": "cordis-plugin"
     },
@@ -18116,6 +18132,10 @@
     },
     {
       "full_name": "jwilson411/dsh-plugin-kit",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jwilson411/dsh-spend-receipt",
       "verdict": "bundle-plugin"
     },
     {
@@ -20139,6 +20159,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "lelens0/dsh-token-ledger",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Lem0nTea2002/dsh-tool-cassette",
       "verdict": "cordis-plugin"
     },
@@ -22159,6 +22183,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "lrplrplrp/dsh-sidebar-gdhighlight",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Lrxc/dsh-manage-hub",
       "verdict": "cordis-plugin"
     },
@@ -24057,6 +24085,10 @@
     {
       "full_name": "Minara-AI/minara-skills",
       "verdict": "manual"
+    },
+    {
+      "full_name": "minatoAI/dsh-net-proxy-plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "minatoAI/jina-web-search-dsh-plugin",
@@ -34205,6 +34237,10 @@
     {
       "full_name": "stuarthu/dsh-hot-reload",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "StudyforDS/Deepseek_dsh-plugin",
+      "verdict": "manual"
     },
     {
       "full_name": "studyinglx/dsh-cli",
@@ -46445,6 +46481,10 @@
     {
       "full_name": "Xiaojing-511/dsh-web-restart",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "xiaokaizhou/dsh-media-preview",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xiaokang6/dsh-admin",
