@@ -1,41 +1,76 @@
 {
-  "generated_at": "2026-08-30T09:45:03.858Z",
-  "count": 5,
+  "generated_at": "2026-08-30T14:49:06.522Z",
+  "count": 10,
   "items": [
     {
-      "full_name": "foryourhealth111-pixel/Vibe-Skills",
+      "full_name": "yjh051108/dsh-router-standard",
+      "previous": "web-ui",
+      "current": "coding",
+      "desc_now": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "desc_prev": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "full_name": "Nyasers/dsh-hanako",
+      "previous": "other",
+      "current": "agent",
+      "desc_now": "DSHana: DeepSeek Harness as a subagent for HanaAgent",
+      "desc_prev": "DSHana"
+    },
+    {
+      "full_name": "techysy/deepseek-harness-fnos",
       "previous": "agent",
-      "current": "model",
-      "desc_now": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
-      "desc_prev": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness workflows."
-    },
-    {
-      "full_name": "edonadei/caliper",
-      "previous": "agent",
-      "current": "model",
-      "desc_now": "Run your real agent with and without your skills, MCPs, and rules. See which ones actually help, and what they cost in tokens. Supports Claude Code, Codex, Pi, and Hermes.",
-      "desc_prev": "Know if your agent skill actually works. A lightweight evaluation harness that tracks a success rate across Claude Code, Codex, Pi, and Hermes."
-    },
-    {
-      "full_name": "huanghai-lab/dsh-custom-instructions",
-      "previous": "coding",
-      "current": "tool",
-      "desc_now": "DSH Web 安全自定义指令管理器：编辑全局 AGENTS.md，支持模板、Markdown 预览、历史恢复、导入导出与并发保护。",
-      "desc_prev": "DSH Web GUI 自定义指令编辑器插件：在设置页直接编辑 ~/.dsh/AGENTS.md 全局指令（类似 ChatGPT Custom Instructions），对所有聊天生效。热插拔安装，无需改动 DSH 源码。"
-    },
-    {
-      "full_name": "wszhoho/dsh-file-attachment",
-      "previous": "resource",
       "current": "web-ui",
-      "desc_now": "拖入 / 粘贴 / 工具栏上传按钮（↑，可多选、移动端支持拍照）为输入框附加文件：图片走既有草稿图片流程（不落盘）；文档全文落盘到会话工作区 .dsh-file-attachment/ 并插入 @绝对路径引用",
-      "desc_prev": "拖拽/粘贴文件（支持多文件）进输入框：图片沿用原有草稿图片流程；文档读取内容存入项目根 .dsh-file-attachment 临时目录并插入 @绝对路径引用"
+      "desc_now": "DeepSeek Harness (DeepSeek 官方 agent 浏览器 UI) fnOS 应用 — 本地常驻服务",
+      "desc_prev": "DeepSeek Harness (DeepSeek 官方 agent 浏览器 UI) fnOS 应用 — 本地常驻服务"
     },
     {
-      "full_name": "limlnx523/dsh-plus-plus",
+      "full_name": "LaoQianwocao/dsh-sound-player",
       "previous": "other",
       "current": "tool",
-      "desc_now": "DSH++ — a local-first control plane for DeepSeek Harness. Plugin security auditing and workflow regression testing.",
-      "desc_prev": "DSH++ — a local-first control plane for DeepSeek Harness"
+      "desc_now": "DSH Web 音效播放器（设置页管理）：对话完成、发送消息、权限请求、被提问、服务终止、子代理运行完成、最后一个子代理运行完成等 7 类场景触发提示音；内置 Web Audio 合成音效与 Windows 系统提示音，可导入自定义音频并逐项绑定；提供 soundPlayer API 供其他插件集成",
+      "desc_prev": "DSH Web 音效播放器插件（悬浮窗 + 情况触发音效 + 供其他插件使用的 API）"
+    },
+    {
+      "full_name": "MarecGents/deepseek-harness-hub",
+      "previous": "resource",
+      "current": "coding",
+      "desc_now": "DeepSeek Harness 生态的 Windows 桌面插件项目。 A Windows desktop plugin project for the DeepSeek Harness ecosystem.",
+      "desc_prev": "windows desktop project as plugin for deepseek harness"
+    },
+    {
+      "full_name": "zhang-jiazhi/dsh-stats-panel",
+      "previous": "web-ui",
+      "current": "resource",
+      "desc_now": "DeepSeek Harness Token 用量统计面板：模型/渠道聚合、余额配额、精确归档与费用估算",
+      "desc_prev": "dsh插件"
+    },
+    {
+      "full_name": "PianoPrince/dsh-workspace-mover",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "拖拽跨工作区真迁移 DSH 会话：批量移动、挂错归位、分组合并；步步备份回滚，零 token 消耗 / Move DSH sessions across workspaces by drag & drop — true migration, batch move, misfiled homing, group merge; backups + rollback, zero tokens.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-tts",
+      "previous": "web-ui",
+      "current": "other",
+      "desc_now": "Text-to-speech for DeepSeek Harness: neural voice read-aloud with multi-provider fallback chains",
+      "desc_prev": "Text-to-speech for DeepSeek Harness Web UI: speak agent replies via a provider fallback chain (OpenAI, ElevenLabs, Google, Azure, Groq, Deepgram, OpenRouter, Edge, Piper, eSpeak)"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-lanmode",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "LAN network routing and browser media API compatibility helper for DeepSeek Harness Web UI",
+      "desc_prev": "Settings over the LAN for DeepSeek Harness"
+    },
+    {
+      "full_name": "maiziman/deepseek-harness-portable",
+      "previous": "tool",
+      "current": "vision",
+      "desc_now": "Community-built Windows desktop wrapper for official tagged DeepSeek Harness source — unzip and run; no Node.js, installer, or admin rights.",
+      "desc_prev": "Portable, zero-install DeepSeek Harness desktop app for Windows — one ZIP, no Node.js or admin rights."
     }
   ]
 }
