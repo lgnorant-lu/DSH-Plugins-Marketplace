@@ -1,76 +1,27 @@
 {
-  "generated_at": "2026-08-30T14:49:06.522Z",
-  "count": 10,
+  "generated_at": "2026-08-30T19:10:14.954Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "yjh051108/dsh-router-standard",
-      "previous": "web-ui",
+      "full_name": "pgmi-builds/better-dsh",
+      "previous": "coding",
+      "current": "memory",
+      "desc_now": "Make your dsh ready for serious coding tasks. (Tools x Schemas)^REPL. skill://, ctx://, agent://, dvc://, dsh://, IPython REPL, Context as Variables, cross compactions recallable, full context revive. hash-edit, dvc://browser, subagent as function, workflow as function.",
+      "desc_prev": "dsh RLM mode (Recursive Language Models), iPython REPL tool-calling interface, context-as-variables, in dsh Everything is a Plugin ecosystem."
+    },
+    {
+      "full_name": "bruc3van/dsh-doctor",
+      "previous": "tool",
       "current": "coding",
-      "desc_now": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "desc_prev": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite"
+      "desc_now": "帮助 Agent 诊断和升级 DeepSeek Harness 插件，从 DSH 0.1.1 适配到 0.1.2：识别 API 变化、修改代码、处理语义迁移，并为重新发布做好准备。",
+      "desc_prev": "DSH Doctor 面向 DSH 与插件使用者，帮助快速找出导致 DSH 启动异常或升级后不可用的插件，集中说明每个插件的问题、影响与处理方式，并检查常见的 profile 配置和版本漂移。诊断默认完全只读；只有显式使用 --fix、核对并确认精确的修复计划后才会执行，文件修改会先创建备份。"
     },
     {
-      "full_name": "Nyasers/dsh-hanako",
-      "previous": "other",
-      "current": "agent",
-      "desc_now": "DSHana: DeepSeek Harness as a subagent for HanaAgent",
-      "desc_prev": "DSHana"
-    },
-    {
-      "full_name": "techysy/deepseek-harness-fnos",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness (DeepSeek 官方 agent 浏览器 UI) fnOS 应用 — 本地常驻服务",
-      "desc_prev": "DeepSeek Harness (DeepSeek 官方 agent 浏览器 UI) fnOS 应用 — 本地常驻服务"
-    },
-    {
-      "full_name": "LaoQianwocao/dsh-sound-player",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "DSH Web 音效播放器（设置页管理）：对话完成、发送消息、权限请求、被提问、服务终止、子代理运行完成、最后一个子代理运行完成等 7 类场景触发提示音；内置 Web Audio 合成音效与 Windows 系统提示音，可导入自定义音频并逐项绑定；提供 soundPlayer API 供其他插件集成",
-      "desc_prev": "DSH Web 音效播放器插件（悬浮窗 + 情况触发音效 + 供其他插件使用的 API）"
-    },
-    {
-      "full_name": "MarecGents/deepseek-harness-hub",
-      "previous": "resource",
-      "current": "coding",
-      "desc_now": "DeepSeek Harness 生态的 Windows 桌面插件项目。 A Windows desktop plugin project for the DeepSeek Harness ecosystem.",
-      "desc_prev": "windows desktop project as plugin for deepseek harness"
-    },
-    {
-      "full_name": "zhang-jiazhi/dsh-stats-panel",
-      "previous": "web-ui",
-      "current": "resource",
-      "desc_now": "DeepSeek Harness Token 用量统计面板：模型/渠道聚合、余额配额、精确归档与费用估算",
-      "desc_prev": "dsh插件"
-    },
-    {
-      "full_name": "PianoPrince/dsh-workspace-mover",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "拖拽跨工作区真迁移 DSH 会话：批量移动、挂错归位、分组合并；步步备份回滚，零 token 消耗 / Move DSH sessions across workspaces by drag & drop — true migration, batch move, misfiled homing, group merge; backups + rollback, zero tokens.",
-      "desc_prev": null
-    },
-    {
-      "full_name": "GooDAnDReaDY/dsh-tts",
-      "previous": "web-ui",
-      "current": "other",
-      "desc_now": "Text-to-speech for DeepSeek Harness: neural voice read-aloud with multi-provider fallback chains",
-      "desc_prev": "Text-to-speech for DeepSeek Harness Web UI: speak agent replies via a provider fallback chain (OpenAI, ElevenLabs, Google, Azure, Groq, Deepgram, OpenRouter, Edge, Piper, eSpeak)"
-    },
-    {
-      "full_name": "GooDAnDReaDY/dsh-lanmode",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "LAN network routing and browser media API compatibility helper for DeepSeek Harness Web UI",
-      "desc_prev": "Settings over the LAN for DeepSeek Harness"
-    },
-    {
-      "full_name": "maiziman/deepseek-harness-portable",
+      "full_name": "chen70456-lang/dsh-tmwebdriver",
       "previous": "tool",
       "current": "vision",
-      "desc_now": "Community-built Windows desktop wrapper for official tagged DeepSeek Harness source — unzip and run; no Node.js, installer, or admin rights.",
-      "desc_prev": "Portable, zero-install DeepSeek Harness desktop app for Windows — one ZIP, no Node.js or admin rights."
+      "desc_now": "One tool, infinite reach: arbitrary JS in your real logged-in browser. Unlike fixed-action plugins, browser_execute_js does anything DevTools can — read, click, type, fill, navigate, screenshot, CDP. Plus list_tabs/snapshot/type. Zero-setup, self-healing.",
+      "desc_prev": "DSH plugin: give your agent direct control of your real logged-in browser (list tabs, run JS, CDP, cookies) with GA-compatible lazy master start."
     }
   ]
 }
