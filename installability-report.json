@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T18:51:33.472Z",
+  "generated_at": "2026-08-31T23:54:49.088Z",
   "counts": {
-    "bundle-plugin": 2375,
-    "cordis-plugin": 7807,
+    "bundle-plugin": 2382,
+    "cordis-plugin": 7808,
     "pkg-plain": 987,
     "manual": 709,
     "script": 225,
@@ -1969,6 +1969,10 @@
     {
       "full_name": "Aik358/dsh-draw-gacha",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Aik358/dsh-literature",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AikenFra/dsh-alive",
@@ -6715,6 +6719,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "chrisx9z/dsh-chat-share",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ChrisZhangWG/dsh-codex-meter",
       "verdict": "cordis-plugin"
     },
@@ -10545,6 +10553,10 @@
     {
       "full_name": "Equinox7379/dsh-update-radar",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "erdholion/dsh-loop-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "erduotong/dsh-plugin-graph",
@@ -17667,6 +17679,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "joao-paulo-santos/dsh-wo-tmux",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "joao-paulo-santos/dsh-workspace-history",
       "verdict": "bundle-plugin"
     },
@@ -18488,6 +18504,10 @@
     },
     {
       "full_name": "jwilson411/dsh-ssrf-guard",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jwilson411/dsh-tool-quota",
       "verdict": "bundle-plugin"
     },
     {
@@ -24080,6 +24100,10 @@
     },
     {
       "full_name": "me9rez/dsh-workbuddy-experts",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Medesol/dsh-kimi-formula",
       "verdict": "cordis-plugin"
     },
     {
@@ -47267,6 +47291,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "xiaokaizhou/dsh-llm-multimodal",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xiaokaizhou/dsh-media-preview",
       "verdict": "bundle-plugin"
     },
@@ -48297,6 +48325,10 @@
     {
       "full_name": "xxxyz/DeepSeekHarness-MCP-Manager",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Xyanxhu/kilo2dsh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xyidong/deepseek-usage-info-check",
