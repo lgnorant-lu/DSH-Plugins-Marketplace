@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T19:26:07.652Z",
+  "generated_at": "2026-09-01T22:30:42.912Z",
   "counts": {
-    "bundle-plugin": 2501,
+    "bundle-plugin": 2506,
     "cordis-plugin": 7819,
     "pkg-plain": 1005,
     "manual": 718,
-    "script": 230,
+    "script": 231,
     "skill": 378,
     "multi-plugin": 413,
     "gone": 60,
@@ -3423,6 +3423,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "ash-qw/dsh-theme-prts",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Asher-2000/dsh-artist-mode",
       "verdict": "agent-preset"
     },
@@ -4529,6 +4533,10 @@
     {
       "full_name": "better-er/dsh-tool-autoexpand",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "better-er/dsh-write-create-only",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "bettermen/dsh-course-writer",
@@ -8437,6 +8445,14 @@
     {
       "full_name": "DaXiGua732/start-dsh",
       "verdict": "manual"
+    },
+    {
+      "full_name": "DaYanQAQ/DSH-Balance-Mini",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "DaYanQAQ/DSH-Shortcut",
+      "verdict": "script"
     },
     {
       "full_name": "Dayi-Z/gitcompass",
@@ -19749,6 +19765,10 @@
     {
       "full_name": "KitDoesIt/dsh-compaction-instant",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "kittcat-lab/dsh-kitt-voice",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kittimzhe/dsh-plugin-authoring-guide",
@@ -52377,6 +52397,10 @@
     {
       "full_name": "ZK-Andy/dsh-continual-evolve",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZK-Andy/dsh-frecency",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zl99103/dsh-answer-sound",
