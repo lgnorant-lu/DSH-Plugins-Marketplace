@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-02T07:02:14.808Z",
+  "count": 3,
+  "items": [
+    {
+      "full_name": "KongFangXun/sofagent",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "FDE Harness: audit-first governance for AI coding agents — 24 rules, HMAC chain, snapshot rollback (80 tools, 13 plugins)",
+      "desc_prev": "Open-source FDE Harness layer for enterprise AI: 24-rule git-diff audit, auto snapshot rollback, rule injection, self-evolution. Ships as 13 plugins (9 DSH + 4 OpenClaw) + MCP server (79 tools). MIT."
+    },
+    {
+      "full_name": "lovaxi/Rubato_Plugins",
+      "previous": "other",
+      "current": "coding",
+      "desc_now": "Make your AI's working state visible on a physical desk device - one Rubato plugin per coding agent.",
+      "desc_prev": "Rubato is a palm-sized retro-Macintosh screen built for one job: looking after the bodies of programmers and heavy AI users."
+    },
+    {
+      "full_name": "BitDG/dsh-cloud-model-providers",
+      "previous": "other",
+      "current": "model",
+      "desc_now": "接入 Ant Digital MaaS 与 NVIDIA NIM 流式模型路由 / Streaming model routes for DSH",
+      "desc_prev": "DSH bundle for Ant Digital MaaS and NVIDIA NIM streaming model providers"
+    }
+  ]
+}
