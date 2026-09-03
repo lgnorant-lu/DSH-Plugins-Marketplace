@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T00:04:51.081Z",
+  "generated_at": "2026-09-03T02:25:39.602Z",
   "counts": {
-    "bundle-plugin": 2641,
-    "cordis-plugin": 7826,
+    "bundle-plugin": 2650,
+    "cordis-plugin": 7827,
     "pkg-plain": 1019,
-    "manual": 729,
+    "manual": 730,
     "script": 233,
     "skill": 378,
     "multi-plugin": 416,
@@ -8403,6 +8403,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Danreelkow/HDCS",
+      "verdict": "manual"
+    },
+    {
       "full_name": "DaoCaoRenH/dsh-openai-responses-bridge",
       "verdict": "bundle-plugin"
     },
@@ -11393,6 +11397,10 @@
     {
       "full_name": "fangweixuan26-hash/dsh-a2a-agent",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fangzaozao/dsh-mcp-oauth-client",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fanshong/dsh-docker-sidebar",
@@ -17379,6 +17387,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "JefferyShaw/dsh-stardew-theme",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "jeffi369/SuperMate-Harness-System",
       "verdict": "manual"
     },
@@ -20177,6 +20189,10 @@
     {
       "full_name": "knowhycodata/dsh-plugin-llmtr",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "knownasmobin/dsh-github-ci",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "knowz-io/deepseek-knowz-plugin",
@@ -25371,6 +25387,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "ming-xia/stickies",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Mingbing-get/dsh-plugins",
       "verdict": "multi-plugin"
     },
@@ -26815,6 +26835,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "nataliwhite20534-droid/dsh-moe-plugin",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "Nath-Vikky/dsh-codekin",
       "verdict": "bundle-plugin"
     },
@@ -27267,7 +27291,19 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "NinjaSln-labs/dsh-imgdraw",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "NinjaSln-labs/dsh-knowledge-sqlite",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "NinjaSln-labs/dsh-session-slm-router",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "NinjaSln-labs/dsh-subagent-cursor",
       "verdict": "bundle-plugin"
     },
     {
@@ -28385,6 +28421,10 @@
     {
       "full_name": "omicverse/dsh-omicos",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "OMSociety/kimi-ppt-skill",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "onclaw-dev/dsh-ima-copilot",
@@ -50693,6 +50733,10 @@
     {
       "full_name": "ynnmuraii/dsh-sandbox",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "ynymhrb/long-horizon-runtime",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "YOGEMOW/DeepSeek_Prism",
