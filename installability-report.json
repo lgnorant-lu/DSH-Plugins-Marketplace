@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T20:41:49.286Z",
+  "generated_at": "2026-09-03T00:04:51.081Z",
   "counts": {
-    "bundle-plugin": 2635,
+    "bundle-plugin": 2641,
     "cordis-plugin": 7826,
     "pkg-plain": 1019,
-    "manual": 728,
+    "manual": 729,
     "script": 233,
     "skill": 378,
     "multi-plugin": 416,
@@ -12213,6 +12213,10 @@
     {
       "full_name": "fountunt/dsh-session-cleaner",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "FourTow/dsh-theme-win98",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "foxi-ui/dsh-command-vscode",
@@ -27263,6 +27267,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "NinjaSln-labs/dsh-session-slm-router",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "NinjaSln-labs/dsh-subagent-router",
       "verdict": "bundle-plugin"
     },
@@ -34901,6 +34909,10 @@
     {
       "full_name": "sluminositys/dsh-nested-followups",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "sly7783/lively-wallpaper-guide",
+      "verdict": "manual"
     },
     {
       "full_name": "Slymaster/dsh-theme-lab",
@@ -44843,6 +44855,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "victor10035445/dsh-v-token-insight",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "victorytianyi-dev/dsh-upload-button",
       "verdict": "cordis-plugin"
     },
@@ -49844,6 +49860,18 @@
     },
     {
       "full_name": "yangbobo2021/relay-dsh-plugin-manager",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yangbobo2021/relay-dsh-plugin-monitor-author",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yangbobo2021/relay-dsh-plugin-monitor-process",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yangbobo2021/relay-dsh-plugin-monitor-time",
       "verdict": "bundle-plugin"
     },
     {
