@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T18:01:00.238Z",
+  "generated_at": "2026-09-03T20:43:33.593Z",
   "counts": {
-    "bundle-plugin": 2734,
-    "cordis-plugin": 7830,
-    "pkg-plain": 1037,
+    "bundle-plugin": 2739,
+    "cordis-plugin": 7831,
+    "pkg-plain": 1040,
     "manual": 735,
     "script": 235,
     "skill": 380,
@@ -2852,6 +2852,14 @@
     },
     {
       "full_name": "AndyYJF/dsh-lan-web-auth",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "AndyZHENG0715/dsh-client-ui-model-search",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "AndyZHENG0715/dsh-recovery",
       "verdict": "pkg-plain"
     },
     {
@@ -9621,6 +9629,10 @@
     {
       "full_name": "doncelee229-cmyk/dsh-plugin-approval-alert",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "dondai44423/donsetch-dsh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "dong-victor/dsh-better-sidebar-jupyter",
@@ -16679,6 +16691,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ilovedyou6666-hub/dshtools-sensevoice-input",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "iloveyanjialin1314/matlab-assistant",
       "verdict": "multi-plugin"
     },
@@ -22839,6 +22855,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LivXue/dsh-plugin-shop",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "liwuzhan/agent-native-trade",
       "verdict": "pkg-plain"
     },
@@ -24557,6 +24577,10 @@
     {
       "full_name": "MarceloSenai/dsh-plugin-kie-ai",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "marcemira/dsh-theme-nier-automata",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "MarchLiu/dsh-farm",
@@ -26989,6 +27013,10 @@
     {
       "full_name": "nailing10086-zx/dsh-custom-ui",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "naitoupi/prompt-optimizer-plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "naivemap/dsh-geo-viewer",
@@ -47615,6 +47643,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "wushu75/conceptnet-dsh-plugin",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "wutian122/dsh-remote-shell",
       "verdict": "bundle-plugin"
     },
@@ -47965,6 +47997,10 @@
     {
       "full_name": "x5427876/dsh-claude-subscription",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "x7687315-gif/dsh-policy",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "X9wd09ncc/dsh-x9-talkjump",
