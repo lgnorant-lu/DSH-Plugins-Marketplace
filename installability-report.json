@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T20:28:00.889Z",
+  "generated_at": "2026-09-04T23:53:29.157Z",
   "counts": {
-    "bundle-plugin": 2845,
+    "bundle-plugin": 2848,
     "cordis-plugin": 7838,
     "pkg-plain": 1048,
-    "manual": 739,
+    "manual": 740,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 424,
+    "multi-plugin": 425,
     "gone": 60,
     "agent-preset": 48,
     "unknown": 55,
@@ -6895,6 +6895,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "chiphoton/DeepSeek-Harness-Video-Director",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "chipweaver/veripower",
       "verdict": "bundle-plugin"
     },
@@ -9421,6 +9425,10 @@
     {
       "full_name": "dingminhua/dsh-connect-workbuddy",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "dingminhua/dsh-sub-cli",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "dingminhua/dsh-subagent-default-model",
@@ -12359,6 +12367,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "flykit-cc/dsh-flykit",
+      "verdict": "manual"
+    },
+    {
       "full_name": "flymysql/dsh-browser-client",
       "verdict": "bundle-plugin"
     },
@@ -12576,6 +12588,10 @@
     },
     {
       "full_name": "FraYoshi/dsh-ui-models-invert-selection",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "FraYoshi/dsh-widechat",
       "verdict": "bundle-plugin"
     },
     {
@@ -13780,6 +13796,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-context-lens",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-cron",
       "verdict": "bundle-plugin"
     },
     {
