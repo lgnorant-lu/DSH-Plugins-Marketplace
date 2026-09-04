@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T10:42:19.298Z",
+  "generated_at": "2026-09-04T12:48:05.112Z",
   "counts": {
-    "bundle-plugin": 2796,
-    "cordis-plugin": 7833,
-    "pkg-plain": 1044,
+    "bundle-plugin": 2808,
+    "cordis-plugin": 7834,
+    "pkg-plain": 1047,
     "manual": 737,
     "script": 235,
     "skill": 380,
@@ -1491,6 +1491,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "aayan-cloud/dsh-reelsmaker",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "abab996/dsh-autonomy",
       "verdict": "pkg-plain"
     },
@@ -2963,6 +2967,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Anionex/dsh-pinned-sessions",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Anionex/dsh-suggested-replies",
       "verdict": "cordis-plugin"
     },
@@ -3009,6 +3017,10 @@
     {
       "full_name": "ankye/dsh-image-generation",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "anlew07/dsh-conversation-atlas",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "AnLifeX/dsh-attention",
@@ -3228,6 +3240,10 @@
     },
     {
       "full_name": "aorucshiea/dsh-safe-tui",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "aosi526/dsh-workbuddy-xdpool",
       "verdict": "bundle-plugin"
     },
     {
@@ -7659,6 +7675,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "cofy-x/dsh-evolver",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "cogine-ai/dsh-claude-tui",
       "verdict": "cordis-plugin"
     },
@@ -8453,6 +8473,10 @@
     {
       "full_name": "Daisy2048/dsh-captain-call",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "daixin315/dsh-xiaoshuang",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "DaiYuhangSustc/dsh-cae-plugin",
@@ -13691,6 +13715,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-dsml-artifact-guard",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-fal-image-gen",
       "verdict": "cordis-plugin"
     },
@@ -15819,6 +15847,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "HrxSpace/dsh-session-sweeper",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "HsiangNianian/dsh-auto-continue",
       "verdict": "cordis-plugin"
     },
@@ -16597,6 +16629,10 @@
     {
       "full_name": "ice-kele/dsh-llm-guardian",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ice5kysl/dsh-workspace-kit",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "IceApriler/dsh-remote-mobile",
@@ -21679,6 +21715,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Leon00x/deepseek-harness-desktop",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Leon0555/dsh-lan-access",
       "verdict": "cordis-plugin"
     },
@@ -24947,6 +24987,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "master1Sun/dsh-file-workbench-lib",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "master1Sun/dsh-prompt-library",
       "verdict": "cordis-plugin"
     },
@@ -26344,6 +26388,10 @@
     },
     {
       "full_name": "mokuyoaxis/agent-guard",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "mokuyoaxis/dsh-iris",
       "verdict": "bundle-plugin"
     },
     {
@@ -51271,6 +51319,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "Yinxe/dsh-custom-ui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Yinxe/dsh-mcwiki-search",
       "verdict": "bundle-plugin"
     },
@@ -52907,6 +52959,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "zgxaxdd/dsh-html-render",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Zh-U-hB/dsh-vision-bridge",
       "verdict": "cordis-plugin"
     },
@@ -52937,6 +52993,10 @@
     {
       "full_name": "ZhanboHua/dsh-pet",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zhang-bin-98/sci-fork",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zhang-jiazhi/dsh-prompt-optimizer",
@@ -53025,6 +53085,10 @@
     {
       "full_name": "zhangliang0115/ai-plugin",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "zhangmiao03/dsh-cloak",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zhangnan/dsh-plugin-hotplug",
