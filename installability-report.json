@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T17:37:20.280Z",
+  "generated_at": "2026-09-04T20:28:00.889Z",
   "counts": {
-    "bundle-plugin": 2840,
+    "bundle-plugin": 2845,
     "cordis-plugin": 7838,
     "pkg-plain": 1048,
-    "manual": 738,
+    "manual": 739,
     "script": 236,
     "skill": 380,
     "multi-plugin": 424,
@@ -4719,6 +4719,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "BHX-WL/dsh-approval-reminder",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "BHXiang/auto-pwa",
       "verdict": "bundle-plugin"
     },
@@ -8681,6 +8685,10 @@
     {
       "full_name": "David131131/makise-kurisu-desktop-pet",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "davidalmeida90/finance-agent-kit",
+      "verdict": "manual"
     },
     {
       "full_name": "davidgereb/dsh-lib-context-injection",
@@ -23759,6 +23767,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "lovezi0/dsh-visualizer-widget",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lovezi0/dsh-web-noOpenBrowser",
       "verdict": "bundle-plugin"
     },
@@ -27721,6 +27733,10 @@
     {
       "full_name": "ngk3pori/dsh-zh-cn-ui",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "nguyenduclong-ict/dsh-plugin-live-terminal",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "niaccky/dsh-install-guard",
@@ -46327,6 +46343,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "wangser10032/dsh-model-autoconfig",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wangshunnn/oh-my-dsh",
       "verdict": "pkg-plain"
     },
@@ -46641,6 +46661,10 @@
     {
       "full_name": "wecode-ai/Wegent",
       "verdict": "script"
+    },
+    {
+      "full_name": "Wecury/dsh-owui-chat2api",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "weekitmo/dsh-trace",
