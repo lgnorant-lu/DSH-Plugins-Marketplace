@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-04T02:09:03.188Z",
+  "count": 2,
+  "items": [
+    {
+      "full_name": "cyjyyd/dsh-ssh-tui",
+      "previous": "coding",
+      "current": "tool",
+      "desc_now": "SSH-friendly DeepSeek Harness TUI. Plain ANSI, incremental redraws, no browser.",
+      "desc_prev": "DeepSeek Harness enhanced plugin:dsh-tui. you can use Deepseek Harness within Terminal,optimized perfomance in ssh environment"
+    },
+    {
+      "full_name": "lnabc03/bright-drift",
+      "previous": "coding",
+      "current": "tool",
+      "desc_now": "Workspace drift awareness for agents — so the agent immediately knows what external changes happened in its workspace.",
+      "desc_prev": "Workspace drift awareness for AI coding agents — watches the workspace and injects a budgeted, attributed diff of external/user changes into the agent's context at each step boundary."
+    }
+  ]
+}

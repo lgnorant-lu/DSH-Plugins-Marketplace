@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T00:03:44.017Z",
+  "generated_at": "2026-09-04T02:23:13.850Z",
   "counts": {
-    "bundle-plugin": 2743,
+    "bundle-plugin": 2746,
     "cordis-plugin": 7831,
-    "pkg-plain": 1040,
+    "pkg-plain": 1042,
     "manual": 735,
     "script": 235,
     "skill": 380,
@@ -17035,6 +17035,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Islulua/dsh-code-navigator",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "ismoss/dsh-harness-zh-l10n",
       "verdict": "manual"
     },
@@ -23897,6 +23901,10 @@
     {
       "full_name": "luoxunhao/deepseek-harness-plugins",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "luoxunhao/dsh-codex-project",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "luoyan96/deepseek-harness-desktop",
@@ -30911,6 +30919,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "qiqiangvae/dsh-newbe-plugins",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "qiqiangvae/dsh-obsidian",
       "verdict": "bundle-plugin"
     },
@@ -37028,6 +37040,10 @@
     },
     {
       "full_name": "swxs/archive-restore",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "sxy-kumako/dsh-better-model-select",
       "verdict": "bundle-plugin"
     },
     {
@@ -46397,6 +46413,10 @@
     {
       "full_name": "weivwang/dsh-stack",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "weiwang988/dsh-session-spend",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "weixshaw/dsh-plugin-task-runner",
