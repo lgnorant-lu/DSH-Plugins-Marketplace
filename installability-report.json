@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T20:43:33.593Z",
+  "generated_at": "2026-09-04T00:03:44.017Z",
   "counts": {
-    "bundle-plugin": 2739,
+    "bundle-plugin": 2743,
     "cordis-plugin": 7831,
     "pkg-plain": 1040,
     "manual": 735,
@@ -15509,6 +15509,10 @@
     {
       "full_name": "HomophonicFate/rpg-maker-mac-skill",
       "verdict": "skill"
+    },
+    {
+      "full_name": "hongbaiqi/dsh-model-account-login",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Hongcheng-LI/dsh-scientific",
@@ -38115,6 +38119,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "tingao/dsh-peaktime-clock",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Tinger-X/dsh-session-enhance",
       "verdict": "bundle-plugin"
     },
@@ -47223,6 +47231,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "WLV-ZEDD/dsh-btw",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wly8691-jpg/dsh-office-com",
       "verdict": "bundle-plugin"
     },
@@ -53565,6 +53577,10 @@
     {
       "full_name": "ZIye1208/dsh-approval-voice",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZIye1208/dsh-github-mcp-hint",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ziyou979/dsh-llm-oauth",
