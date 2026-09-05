@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-05T11:37:52.184Z",
-  "count": 1,
+  "generated_at": "2026-09-05T14:21:40.211Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "vlln/dsh-navbar",
+      "full_name": "FeatherHunter/dsh-opencode-palette",
+      "previous": "web-ui",
+      "current": "coding",
+      "desc_now": "🎨 为长时间编程而生：34 款 opencode 护眼配色，一键换上 DSH | 34 eye-friendly opencode themes for DeepSeek Harness, one click",
+      "desc_prev": "🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck"
+    },
+    {
+      "full_name": "Vncntvx/dsh-zotero",
+      "previous": "conversation",
+      "current": "tool",
+      "desc_now": "Zotero toolkit for DeepSeek harness; Turn your Zotero library into an evidence store for agents.",
+      "desc_prev": "Turn your Zotero library into an evidence store for agents."
+    },
+    {
+      "full_name": "jcaiagent7143-ui/linkdigest-mcp",
       "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装",
-      "desc_prev": "DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装"
+      "current": "memory",
+      "desc_now": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP.",
+      "desc_prev": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP."
     }
   ]
 }
