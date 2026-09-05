@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T18:10:24.434Z",
+  "generated_at": "2026-09-05T20:05:30.601Z",
   "counts": {
-    "bundle-plugin": 2932,
+    "bundle-plugin": 2939,
     "cordis-plugin": 7844,
     "pkg-plain": 1057,
     "manual": 742,
@@ -9,7 +9,7 @@
     "skill": 380,
     "multi-plugin": 429,
     "gone": 60,
-    "agent-preset": 48,
+    "agent-preset": 49,
     "unknown": 55,
     "empty": 15
   },
@@ -672,6 +672,10 @@
     },
     {
       "full_name": "2327644800/dsh-usage-analytics",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "233fxr-collab/dsh-mobile-push-notify",
       "verdict": "bundle-plugin"
     },
     {
@@ -10247,6 +10251,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "drshy-org/lightroom-py",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "dsh-ai-org/top-dsh-plugins",
       "verdict": "manual"
     },
@@ -13928,6 +13936,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-gitea",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-goal",
       "verdict": "bundle-plugin"
     },
     {
@@ -20115,6 +20127,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "keeshakulbida948-tech/dsh-plugin-fun",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "keeshakulbida948-tech/dsh-plugin-sticker",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "KeFan-J/dsh-chat-link",
       "verdict": "script"
     },
@@ -23943,6 +23963,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LoveDoLove/Project-Memory-Agent",
+      "verdict": "agent-preset"
+    },
+    {
       "full_name": "lovejavacore/dsh-minecraft-pet",
       "verdict": "pkg-plain"
     },
@@ -24013,6 +24037,10 @@
     {
       "full_name": "lovstudio/dsh-plugin-publisher-skill",
       "verdict": "skill"
+    },
+    {
+      "full_name": "lovstudio/dsh-video-studio",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "lovy2004/dsh-molbio-tools",
@@ -39324,6 +39352,10 @@
     },
     {
       "full_name": "tristan-mcinnis/dsh-browser-vision",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "TritiumWang/dsh-universal-worldbook",
       "verdict": "bundle-plugin"
     },
     {
