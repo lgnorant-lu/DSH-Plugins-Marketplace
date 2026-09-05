@@ -2099,6 +2099,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "AIMarshallLee/dsh-obsidian-bridge",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "AIMFllyYS/dsh-operating-context",
       "verdict": "cordis-plugin"
     },
@@ -13451,6 +13455,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "GiantAxeint/DSH-P2M",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GiantGKL/dsh-cost",
       "verdict": "cordis-plugin"
     },
@@ -16679,6 +16687,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "hyzyn/dsh-safe",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "HZ-JasonLin/dsh-todolist",
       "verdict": "cordis-plugin"
     },
@@ -19832,6 +19844,10 @@
     },
     {
       "full_name": "KamChiHei/deepseek-usage-monitor",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "KamChiHei/dsh-deepseek-usage-monitor",
       "verdict": "bundle-plugin"
     },
     {
@@ -31631,6 +31647,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "quqxui/dsh-memgas",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "QvShui/dsh-llm-qwen",
       "verdict": "cordis-plugin"
     },
@@ -31875,6 +31895,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "rand0wn/dsh-malware-audit",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "rand0wn/dsh-minimal-anchor",
       "verdict": "cordis-plugin"
     },
@@ -31992,6 +32016,10 @@
     },
     {
       "full_name": "raydez/deepseek-harness-pet-plugin",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "raydez/dsh-pet-plugin",
       "verdict": "pkg-plain"
     },
     {
@@ -33109,6 +33137,10 @@
     {
       "full_name": "SaiSenBox/dsh-boot-guard",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SaiSenBox/dsh-prompt-manager",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "saitamahang/dsh-skill-importer",
@@ -46719,6 +46751,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "watersxya/dsh-novel-forge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wave-av/wave-runtime-registry",
       "verdict": "manual"
     },
@@ -47388,6 +47424,10 @@
     },
     {
       "full_name": "whutzefengxie-ops/dsh-shadow-mind",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "whw19761006/path-click",
       "verdict": "bundle-plugin"
     },
     {
@@ -48169,6 +48209,10 @@
     {
       "full_name": "WSYXIUBA/dsh-plugin-constellation",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "WSYXIUBA/dsh-plugin-starmap",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "wsz987/dsh-channels",
