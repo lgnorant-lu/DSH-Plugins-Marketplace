@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T08:17:57.096Z",
+  "generated_at": "2026-09-05T11:50:56.409Z",
   "counts": {
-    "bundle-plugin": 2881,
-    "cordis-plugin": 7839,
-    "pkg-plain": 1054,
-    "manual": 740,
+    "bundle-plugin": 2904,
+    "cordis-plugin": 7841,
+    "pkg-plain": 1056,
+    "manual": 741,
     "script": 236,
     "skill": 380,
     "multi-plugin": 427,
@@ -8039,6 +8039,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Crosery/dsh-drop",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Crosery/dsh-viewer",
       "verdict": "bundle-plugin"
     },
@@ -12247,6 +12251,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Flan246/dsh-research-writing",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "flaricy/herdr-bridge",
       "verdict": "pkg-plain"
     },
@@ -12769,6 +12777,10 @@
     {
       "full_name": "Fu3rte/dsh-sight",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fu827707013/dsh-codebuddy-cli",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fu827707013/dsh-concurrency-guard",
@@ -15957,6 +15969,10 @@
     {
       "full_name": "hpyer/dsh-for-mac",
       "verdict": "manual"
+    },
+    {
+      "full_name": "hpyperry/dsh-cajita",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hpyperry/dsh-ref-lib",
@@ -19973,6 +19989,14 @@
     {
       "full_name": "katsos/dsh-claude-cli",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Kayungko/dsh-plugin-product-design",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Kayungko/dsh-plugin-task-coordinator",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kazecreator/dsh-settings-pro",
@@ -24067,6 +24091,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "lubenweimeiyoukaig/dsh-file-upload-local",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "luca3xxvsoo/dsh-extra-plan",
       "verdict": "pkg-plain"
     },
@@ -26391,6 +26419,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Mknecar/DeepseekHarness-",
+      "verdict": "manual"
+    },
+    {
       "full_name": "ML-QSeek/SurvX",
       "verdict": "manual"
     },
@@ -26925,6 +26957,10 @@
     {
       "full_name": "mouse33333/dsh-quota-monitor",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "mouseteamlucky/dsh-opencode-go-usage",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "mouyase/dsh-hashline",
@@ -27773,6 +27809,10 @@
     {
       "full_name": "NewDaNew/dsh-voice-input",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "NewSpringWei/dsh-biz-bridge",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "nexlineai/dsh-tui",
@@ -29945,6 +29985,10 @@
     {
       "full_name": "pazz11/Jnpz",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "pbadgpmeb22791-sketch/dsh-we-wallpaper",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "pbwheel/dsh-agency-market",
@@ -32619,6 +32663,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "roclee2692/dsh-model-groups",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Roger-Yang-CN/dsh-voice-alert",
       "verdict": "cordis-plugin"
     },
@@ -34173,6 +34221,10 @@
     {
       "full_name": "Scorp1o117/dsh-plugin-marketplace",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Scorp1o117/dsh-reasoning-options",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Scorp1o117/dsh-soul-md",
@@ -38089,6 +38141,10 @@
     {
       "full_name": "teckyuen/dsh-autocount-cloud",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "telagod/dsh-ledger-compact",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TellToday/dsh-narrative-voice",
@@ -46895,6 +46951,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "weibaohui/dsh-kb",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "weibaohui/dsh-plugin-scheduled-items",
       "verdict": "cordis-plugin"
     },
@@ -46908,6 +46968,10 @@
     },
     {
       "full_name": "weibaohui/dsh-tasks",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "weibaohui/dsh-xiuxian",
       "verdict": "bundle-plugin"
     },
     {
@@ -53028,6 +53092,10 @@
     },
     {
       "full_name": "zbsph/dsh-j-space-warm",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zbsph/dsh-ppt-studio",
       "verdict": "cordis-plugin"
     },
     {
