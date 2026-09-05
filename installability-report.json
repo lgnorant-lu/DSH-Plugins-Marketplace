@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T22:06:32.132Z",
+  "generated_at": "2026-09-05T23:45:32.693Z",
   "counts": {
-    "bundle-plugin": 2941,
+    "bundle-plugin": 2944,
     "cordis-plugin": 7844,
     "pkg-plain": 1057,
     "manual": 743,
@@ -13931,6 +13931,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-cost-meter",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-cron",
       "verdict": "bundle-plugin"
     },
@@ -15049,6 +15053,10 @@
     {
       "full_name": "Harzva/dsh-plugin-registry",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Harzva/dsh-pr-guardian",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Harzva/dsh-research-lab",
@@ -39713,6 +39721,10 @@
     {
       "full_name": "TYEclipse/dsh-checkdigit",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "TYEclipse/dsh-chem",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TYEclipse/dsh-color",
