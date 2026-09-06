@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:07:34.010Z",
+  "generated_at": "2026-09-06T22:08:54.035Z",
   "counts": {
     "bundle-plugin": 3023,
     "cordis-plugin": 7850,
@@ -7,7 +7,7 @@
     "manual": 746,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 431,
+    "multi-plugin": 432,
     "gone": 60,
     "agent-preset": 51,
     "unknown": 55,
@@ -30181,6 +30181,10 @@
     {
       "full_name": "pakco77/dsh-daqi.skill",
       "verdict": "manual"
+    },
+    {
+      "full_name": "pakgrou-porg/yardmaster",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "PAKIKNOWLEDGE/dsh-auto-classifier",
