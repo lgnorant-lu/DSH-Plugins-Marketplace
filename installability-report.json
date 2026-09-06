@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06T18:12:15.659Z",
+  "generated_at": "2026-09-06T20:07:34.010Z",
   "counts": {
-    "bundle-plugin": 3021,
+    "bundle-plugin": 3023,
     "cordis-plugin": 7850,
-    "pkg-plain": 1069,
-    "manual": 745,
+    "pkg-plain": 1070,
+    "manual": 746,
     "script": 236,
     "skill": 380,
     "multi-plugin": 431,
@@ -773,6 +773,10 @@
     {
       "full_name": "283Gawin/dsh-heatmap",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "2842902295/agent-deepseek",
+      "verdict": "manual"
     },
     {
       "full_name": "2877905731/dsh-think-autoexpand",
@@ -7301,6 +7305,10 @@
     {
       "full_name": "chuyue-yue/dsh-plugin-manager",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "chy007-fun/dsh-token-hud",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chyra-moon/deepseek-harness-desktop",
@@ -19785,6 +19793,10 @@
     {
       "full_name": "Junkrat9527/dsh-double",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "JunNanLYS/dsh-input-markdown",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "JunNanLYS/dsh-layered-memory",
@@ -32957,6 +32969,10 @@
     {
       "full_name": "rickyfu0625-cell/dsh-billing-dashboard",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "rickylabs/harness",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "RiemannRe3/DSH-RolePlay",
