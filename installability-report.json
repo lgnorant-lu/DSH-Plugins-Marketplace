@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06T10:33:56.561Z",
+  "generated_at": "2026-09-06T12:07:54.624Z",
   "counts": {
-    "bundle-plugin": 2983,
+    "bundle-plugin": 2989,
     "cordis-plugin": 7848,
-    "pkg-plain": 1064,
-    "manual": 744,
+    "pkg-plain": 1066,
+    "manual": 745,
     "script": 236,
     "skill": 380,
     "multi-plugin": 430,
@@ -1507,6 +1507,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "aaronlei/dsh-web-search-diy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "aaronlei/dsh-width-tiers",
       "verdict": "cordis-plugin"
     },
@@ -2892,6 +2896,10 @@
     },
     {
       "full_name": "andyfan1094/dsh-codebase-memory",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "andyfan1094/dsh-devforge",
       "verdict": "bundle-plugin"
     },
     {
@@ -7579,6 +7587,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "cmyfqwq/webauthn-for-webview-shells",
+      "verdict": "manual"
+    },
+    {
       "full_name": "CN-Leo/dsh-deepseek-balance",
       "verdict": "cordis-plugin"
     },
@@ -10537,6 +10549,10 @@
     {
       "full_name": "duhu2000/dsh-data-cleaning-agent",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "duhu2000/dsh-form-fill-agent",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "duhu2000/dsh-mcp-connector",
@@ -14199,6 +14215,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "grloper/dsh-claude-oauth",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GroupWork888/dsh-plugin-archived-sessions",
       "verdict": "bundle-plugin"
     },
@@ -16037,6 +16057,10 @@
     {
       "full_name": "Hoshino-Yumetsuki/dsh-satori",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "hoshinoick811/dsh-tool-ssh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hotpot-labs/dsh-notifier-plugin",
@@ -24541,6 +24565,10 @@
     {
       "full_name": "luomeii/dsh-review-squad",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "luoxin10086/dsh-session-backup",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "luoxunhao/deepseek-harness-plugins",
@@ -37243,6 +37271,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "stelmakhdigital/dsh-web-automation",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "StephenEvenson/dsh-plugin-elevenlabs-callback",
       "verdict": "bundle-plugin"
     },
@@ -38173,6 +38205,10 @@
     {
       "full_name": "taikaikaikai-pixel/dsh-codebuddy-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "taikaikaikai-pixel/dsh-tap",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "takasurazeem/dsh-plugins",
