@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T23:45:32.693Z",
+  "generated_at": "2026-09-06T02:14:18.861Z",
   "counts": {
-    "bundle-plugin": 2944,
-    "cordis-plugin": 7844,
-    "pkg-plain": 1057,
+    "bundle-plugin": 2946,
+    "cordis-plugin": 7845,
+    "pkg-plain": 1060,
     "manual": 743,
     "script": 236,
     "skill": 380,
@@ -5879,6 +5879,14 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Canary-Builds/dhs-connect",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Canary-Builds/dsh-mobile-ui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "CanaryJing/dsh-big-fat-whale-maid-adaptive",
       "verdict": "agent-preset"
     },
@@ -8501,6 +8509,10 @@
     {
       "full_name": "d3vmeh/dsh-turn-doctor",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "d4551/cloudflare-dsh",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "d4551/DeepTail",
@@ -16897,6 +16909,10 @@
     {
       "full_name": "ice5kysl/dsh-file-explorer-kit",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ice5kysl/dsh-insights",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "ice5kysl/dsh-plugin-health",
@@ -29747,6 +29763,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "OuYangxin12/dsh-status-bar",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "ouyangyipeng/dsh-marketplace",
       "verdict": "cordis-plugin"
     },
@@ -35416,6 +35436,10 @@
     },
     {
       "full_name": "ShuiQiongChuYunQiShi/disk-clean-cli",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "shuishuipingan/InkWeaver",
       "verdict": "pkg-plain"
     },
     {
