@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-06T14:56:11.729Z",
+  "generated_at": "2026-09-06T18:12:15.659Z",
   "counts": {
-    "bundle-plugin": 3005,
-    "cordis-plugin": 7849,
-    "pkg-plain": 1066,
+    "bundle-plugin": 3021,
+    "cordis-plugin": 7850,
+    "pkg-plain": 1069,
     "manual": 745,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 430,
+    "multi-plugin": 431,
     "gone": 60,
-    "agent-preset": 50,
+    "agent-preset": 51,
     "unknown": 55,
     "empty": 15
   },
@@ -4215,6 +4215,14 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Baiiduu/dsh-eslint-security-sast",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Baiiduu/dsh-semgrep-sast",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "BAIKAI23333/dsh-skills-manager",
       "verdict": "script"
     },
@@ -6549,6 +6557,10 @@
     {
       "full_name": "chen-zz20/dsh-skill-stats",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "chen6896qqwee/dsh-workflow-console",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chen70456-lang/dsh-tmwebdriver",
@@ -9603,6 +9615,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Dingpenghui-good/dsh-web-search-serper",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "DingTalk-Real-AI/dsh-dingtalk",
       "verdict": "cordis-plugin"
     },
@@ -10331,6 +10347,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "dsboylw/LazyNoobsCockloft",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "dsh-ai-org/top-dsh-plugins",
       "verdict": "manual"
     },
@@ -10632,6 +10652,10 @@
     },
     {
       "full_name": "duyanta123/dsh-telemetry",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "dvaJi/dsh-codex-context",
       "verdict": "bundle-plugin"
     },
     {
@@ -11137,6 +11161,10 @@
     {
       "full_name": "emredeveloper/deepseek-harness-huggingface",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "emuco/dsh-project-env",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Enc-hanted/dsh-pulse",
@@ -14235,6 +14263,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "grloper/dsh-deep-research",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GroupWork888/dsh-plugin-archived-sessions",
       "verdict": "bundle-plugin"
     },
@@ -15265,6 +15297,10 @@
     {
       "full_name": "havingautism/dsh-ultra-ui",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "hawk2048/oh-my-dsh",
+      "verdict": "agent-preset"
     },
     {
       "full_name": "hawkongz/doubao-vision-dsh",
@@ -19091,6 +19127,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "johnhom1024/dsh-loopback-bridge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Johnny-xuan/dsh-paste-to-path",
       "verdict": "cordis-plugin"
     },
@@ -19569,6 +19609,10 @@
     {
       "full_name": "jsoncode/dsh-jenkins",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "jsoncode/dsh-listen-npm",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "jsoncode/dsh-model-list",
@@ -23263,6 +23307,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "lirui1024k/dsh-browser-ops",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lishLRF/dsh-3d-model-viewer",
       "verdict": "cordis-plugin"
     },
@@ -23939,6 +23987,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "lokih1028/dsh-plugin-canvas-pro",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "loklamlok/dsh-queue-director",
       "verdict": "cordis-plugin"
     },
@@ -24256,6 +24308,10 @@
     },
     {
       "full_name": "loyalchiiina/dsh-font-enhancer",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "loyalchiiina/dsh-todo-float-ball",
       "verdict": "bundle-plugin"
     },
     {
@@ -24957,6 +25013,10 @@
     {
       "full_name": "lyq3/dsh-skin-nebula",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "LYRA-88/workspace_memory_dsh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Lyt-LZ/dsh-catpet-desktop-pet",
@@ -27767,6 +27827,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "N3kOk0/dsh-md3-theme",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "N5Tar/dsh-workspace-view",
       "verdict": "cordis-plugin"
     },
@@ -27984,6 +28048,10 @@
     },
     {
       "full_name": "NattoCB/dsh-web-search-session-follow",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "NattoCB/dsh-widget-center",
       "verdict": "bundle-plugin"
     },
     {
@@ -28617,6 +28685,10 @@
     {
       "full_name": "no1xsyzy/dsh-webview-wrapper",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "noah-qiao/dsh-human-agent-paradigm-web",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "nocobase/nocobase",
@@ -37723,6 +37795,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "sunligh91/dsh-helper",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SunNull/dsh-relay",
       "verdict": "bundle-plugin"
     },
@@ -39567,6 +39643,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "tr1v3r/dsh-quote-followup",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "tradercjz/dsh-dolphindb",
       "verdict": "skill"
     },
@@ -39656,6 +39736,10 @@
     },
     {
       "full_name": "TropicWiden/dsh-history-question-nav",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Trouvaille-xx/dsh-StardewValley-UI",
       "verdict": "bundle-plugin"
     },
     {
@@ -50301,6 +50385,10 @@
     {
       "full_name": "XiaoMoDern/dsh-trajectory-teacher",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "xiaono1/dsh-ov-memory",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Xiaooooo434680/dsh-tool-tdd",
